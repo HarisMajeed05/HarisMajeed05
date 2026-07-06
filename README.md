@@ -115,7 +115,7 @@ Custom search engine in C++ using an inverted index for efficient text retrieval
 ### 📄 Resume
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1VgKdOfs3Q5D9X013MIOUYQzqx_6Nf0ci/view?usp=sharing"><img title="Resume" src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1VgKdOfs3Q5D9X013MIOUYQzqx_6Nf0ci/view?usp=sharing" target="_blank"><img title="Resume" src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
