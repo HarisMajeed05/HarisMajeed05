@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&left=true&vCenter=true&width=600&height=40&duration=4000&lines=CS+Student+%7C+ML+%2B+Full-Stack+Developer;Building+Deepfake+Detection+with+LLMs+%26+VLMs;RAG+Pipelines%2C+Computer+Vision%2C+and+Beyond" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&left=true&vCenter=true&width=600&height=40&duration=4000&lines=CS+Student+%7C+ML+%2B+Full-Stack+Developer;Built+Deepfake+Detection+with+LLMs+%26+VLMs;RAG+Pipelines%2C+Computer+Vision%2C+and+Beyond" />
 </p>
 
 ---
