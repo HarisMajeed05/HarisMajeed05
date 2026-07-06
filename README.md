@@ -10,9 +10,9 @@
 
 ### Technical Profile
 
-Computer Science student passionate about the intersection of machine learning, computer vision, and full-stack engineering. I enjoy digging into problems from both ends — building systems from scratch to understand how they really work (compilers, search engines) and applying modern AI models to solve real-world problems like multimodal deepfake detection, retrieval-augmented chatbots, and real-time computer vision.
+Computer Science student passionate about the intersection of machine learning, computer vision, and full-stack engineering. I enjoy digging into problems from both ends, building systems from scratch to understand how they really work (compilers, search engines) and applying modern AI models to solve real-world problems like multimodal deepfake detection, retrieval-augmented chatbots, and real-time computer vision.
 
-* Currently pursuing a BS in Computer Science at Information Technology University (ITU), Lahore — CGPA 3.24/4.0.
+* Currently pursuing a BS in Computer Science at Information Technology University (ITU), Lahore, CGPA 3.24/4.0.
 * Final Year Project: **Multimodal Deepfake Detection using LLMs and VLMs**, supervised by Dr. Waqas Sultani.
 * Teaching Assistant for Software Engineering (CS435) and Artificial Intelligence (CS220) at ITU.
 * Experienced across ML internships, Salesforce administration, and front-end development.
@@ -87,13 +87,13 @@ Computer Science student passionate about the intersection of machine learning, 
 Designed **ExDDV-Judge**, a three-stage detect–explain–judge pipeline that replaces 11B/7B-parameter VLMs (BLIP-2 T5-XXL, LLaVA-1.5) with lightweight alternatives (BLIP-2 T5-XL, LLaVA-Mini), cutting model size by 80%+ while running entirely on a single consumer GPU. Fixed a critical real-frame misclassification bug via a Dual-DB routing system with a fine-tuned CLIP encoder, and connected BLIP-2 explanation generation with DeepfakeJudge faithfulness verification, plus a Flask web app for real-time analysis.
 
 **⚖️ Legal AI Chatbot**
-Full-stack RAG-based legal assistant using React, FastAPI, and MongoDB, with document-grounded Q&A powered by LangChain, FAISS, and the Groq API (Llama 3.3 70B). Features project-scoped retrieval, source citations, JWT auth, and real-time token streaming — all GPU-free by offloading LLM inference to Groq's hosted API.
+Full-stack RAG-based legal assistant using React, FastAPI, and MongoDB, with document-grounded Q&A powered by LangChain, FAISS, and the Groq API (Llama 3.3 70B). Features project-scoped retrieval, source citations, JWT auth, and real-time token streaming, all GPU-free by offloading LLM inference to Groq's hosted API.
 
 **🚶 Footfall Counter**
 Real-time people-counting system using YOLO/RT-DETR for detection and ByteTrack for persistent multi-object tracking across occlusion. Supports directional entry/exit counting via an arbitrary-angle virtual line and runs entirely on CPU.
 
 **⚙️ C++ Compiler From Scratch**
-A compiler built from the ground up covering lexical analysis, recursive-descent parsing, semantic checks, and custom error detection — designed with future code generation in mind.
+A compiler built from the ground up covering lexical analysis, recursive-descent parsing, semantic checks, and custom error detection, designed with future code generation in mind.
 
 **🏠 Airbnb Clone (Extended)**
 Full-stack booking platform using React, Node.js, MongoDB, and JWT authentication, with role-based access control and admin property/booking management.
@@ -105,10 +105,10 @@ Custom search engine in C++ using an inverted index for efficient text retrieval
 
 ### Experience Highlights
 
-* 👨‍🏫 **Teaching Assistant** — Software Engineering (CS453) & Artificial Intelligence (CS220), ITU
-* 🤖 **Machine Learning Intern** — Arch Technologies (spam detection, housing price prediction, digit classification)
-* ☁️ **Salesforce Admin Intern** — Incredibles (Trailhead-certified: objects, automation, custom reporting)
-* 💻 **Front-End Intern** — Certura (responsive portfolio site, to-do app, weather dashboard)
+* 👨‍🏫 **Teaching Assistant**, Software Engineering (CS453) & Artificial Intelligence (CS220), ITU
+* 🤖 **Machine Learning Intern**, Arch Technologies (spam detection, housing price prediction, digit classification)
+* ☁️ **Salesforce Admin Intern**, Incredibles (Trailhead-certified: objects, automation, custom reporting)
+* 💻 **Front-End Intern**, Certura (responsive portfolio site, to-do app, weather dashboard)
 
 ---
 
