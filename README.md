@@ -81,37 +81,6 @@ Computer Science student passionate about the intersection of machine learning, 
 
 ---
 
-### Featured Projects
-
-**🔎 Multimodal Deepfake Detection using LLMs and VLMs** *(FYP)*
-Designed **ExDDV-Judge**, a three-stage detect–explain–judge pipeline that replaces 11B/7B-parameter VLMs (BLIP-2 T5-XXL, LLaVA-1.5) with lightweight alternatives (BLIP-2 T5-XL, LLaVA-Mini), cutting model size by 80%+ while running entirely on a single consumer GPU. Fixed a critical real-frame misclassification bug via a Dual-DB routing system with a fine-tuned CLIP encoder, and connected BLIP-2 explanation generation with DeepfakeJudge faithfulness verification, plus a Flask web app for real-time analysis.
-
-**⚖️ Legal AI Chatbot**
-Full-stack RAG-based legal assistant using React, FastAPI, and MongoDB, with document-grounded Q&A powered by LangChain, FAISS, and the Groq API (Llama 3.3 70B). Features project-scoped retrieval, source citations, JWT auth, and real-time token streaming, all GPU-free by offloading LLM inference to Groq's hosted API.
-
-**🚶 Footfall Counter**
-Real-time people-counting system using YOLO/RT-DETR for detection and ByteTrack for persistent multi-object tracking across occlusion. Supports directional entry/exit counting via an arbitrary-angle virtual line and runs entirely on CPU.
-
-**⚙️ C++ Compiler From Scratch**
-A compiler built from the ground up covering lexical analysis, recursive-descent parsing, semantic checks, and custom error detection, designed with future code generation in mind.
-
-**🏠 Airbnb Clone (Extended)**
-Full-stack booking platform using React, Node.js, MongoDB, and JWT authentication, with role-based access control and admin property/booking management.
-
-**🔍 Search Engine**
-Custom search engine in C++ using an inverted index for efficient text retrieval, with a CLI supporting multi-condition queries and result ranking.
-
----
-
-### Experience Highlights
-
-* 👨‍🏫 **Teaching Assistant**, Software Engineering (CS453) & Artificial Intelligence (CS220), ITU
-* 🤖 **Machine Learning Intern**, Arch Technologies (spam detection, housing price prediction, digit classification)
-* ☁️ **Salesforce Admin Intern**, Incredibles (Trailhead-certified: objects, automation, custom reporting)
-* 💻 **Front-End Intern**, Certura (responsive portfolio site, to-do app, weather dashboard)
-
----
-
 ### 📄 Resume
 
 <p align="left">
