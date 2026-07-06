@@ -91,7 +91,7 @@ Computer Science student passionate about the intersection of machine learning, 
 
 ### Professional Contact
 
-Feel free to reach out for collaborations, internships, or just to talk about ML and software engineering:
+Feel free to reach out to me using the links below
 
 <p align="left">
   <a href="mailto:harismajeed0501@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
