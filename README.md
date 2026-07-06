@@ -12,7 +12,7 @@
 
 Computer Science student passionate about the intersection of machine learning, computer vision, and full-stack engineering. I enjoy digging into problems from both ends, building systems from scratch to understand how they really work (compilers, search engines) and applying modern AI models to solve real-world problems like multimodal deepfake detection, retrieval-augmented chatbots, and real-time computer vision.
 
-* Currently pursuing a BS in Computer Science at Information Technology University (ITU), Lahore, CGPA 3.24/4.0.
+* BS in Computer Science at Information Technology University (ITU), Lahore, CGPA 3.24/4.0.
 * Final Year Project: **Multimodal Deepfake Detection using LLMs and VLMs**, supervised by Dr. Waqas Sultani.
 * Teaching Assistant for Software Engineering (CS435) and Artificial Intelligence (CS220) at ITU.
 * Experienced across ML internships, Salesforce administration, and front-end development.
