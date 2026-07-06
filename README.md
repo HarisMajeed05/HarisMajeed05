@@ -3,17 +3,17 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&left=true&vCenter=true&width=600&height=40&duration=4000&lines=CS+Student+%7C+ML+%2B+Full-Stack+Developer;Building+Deepfake+Detection+with+LLMs+%26+VLMs;From+Compilers+to+Neural+Networks" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&left=true&vCenter=true&width=600&height=40&duration=4000&lines=CS+Student+%7C+ML+%2B+Full-Stack+Developer;Building+Deepfake+Detection+with+LLMs+%26+VLMs;RAG+Pipelines%2C+Computer+Vision%2C+and+Beyond" />
 </p>
 
 ---
 
 ### Technical Profile
 
-Computer Science student passionate about the intersection of machine learning, computer vision, and full-stack engineering. I enjoy digging into problems from both ends — building systems from scratch to understand how they really work (compilers, search engines, kernel modules) and applying modern AI models to solve real-world problems like multimodal deepfake detection.
+Computer Science student passionate about the intersection of machine learning, computer vision, and full-stack engineering. I enjoy digging into problems from both ends — building systems from scratch to understand how they really work (compilers, search engines) and applying modern AI models to solve real-world problems like multimodal deepfake detection, retrieval-augmented chatbots, and real-time computer vision.
 
 * Currently pursuing a BS in Computer Science at Information Technology University (ITU), Lahore — CGPA 3.24/4.0.
-* Working on my Final Year Project: **Multimodal Deepfake Detection using LLMs and VLMs**, supervised by Dr. Waqas Sultani.
+* Final Year Project: **Multimodal Deepfake Detection using LLMs and VLMs**, supervised by Dr. Waqas Sultani.
 * Teaching Assistant for Software Engineering (CS435) and Artificial Intelligence (CS220) at ITU.
 * Experienced across ML internships, Salesforce administration, and front-end development.
 
@@ -38,9 +38,21 @@ Computer Science student passionate about the intersection of machine learning, 
 <p align="left">
   <img title="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img title="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img title="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img title="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img title="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img title="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+#### **AI/ML Tools & Computer Vision**
+
+<p align="left">
+  <img title="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img title="FAISS" src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" />
+  <img title="Groq" src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  <img title="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img title="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" />
+  <img title="CLIP" src="https://img.shields.io/badge/CLIP-412991?style=for-the-badge&logoColor=white" />
 </p>
 
 #### **Web & Full-Stack Development**
@@ -49,6 +61,7 @@ Computer Science student passionate about the intersection of machine learning, 
   <img title="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img title="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img title="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img title="FastAPI" src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img title="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img title="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -70,26 +83,40 @@ Computer Science student passionate about the intersection of machine learning, 
 
 ### Featured Projects
 
-**🔎 Multimodal Deepfake Detection using LLMs and VLMs** *(FYP, Ongoing)*
-Resource-efficient deepfake detection framework combining ResNet50/EfficientNet/VGG16 image-level detection with Vision-Language Models (LLaVA, Phi, BLIP-2) for visual-textual reasoning, plus a Flask + React web app for real-time detection and interactive visualization.
+**🔎 Multimodal Deepfake Detection using LLMs and VLMs** *(FYP)*
+Designed **ExDDV-Judge**, a three-stage detect–explain–judge pipeline that replaces 11B/7B-parameter VLMs (BLIP-2 T5-XXL, LLaVA-1.5) with lightweight alternatives (BLIP-2 T5-XL, LLaVA-Mini), cutting model size by 80%+ while running entirely on a single consumer GPU. Fixed a critical real-frame misclassification bug via a Dual-DB routing system with a fine-tuned CLIP encoder, and connected BLIP-2 explanation generation with DeepfakeJudge faithfulness verification, plus a Flask web app for real-time analysis.
+
+**⚖️ Legal AI Chatbot**
+Full-stack RAG-based legal assistant using React, FastAPI, and MongoDB, with document-grounded Q&A powered by LangChain, FAISS, and the Groq API (Llama 3.3 70B). Features project-scoped retrieval, source citations, JWT auth, and real-time token streaming — all GPU-free by offloading LLM inference to Groq's hosted API.
+
+**🚶 Footfall Counter**
+Real-time people-counting system using YOLO/RT-DETR for detection and ByteTrack for persistent multi-object tracking across occlusion. Supports directional entry/exit counting via an arbitrary-angle virtual line and runs entirely on CPU.
 
 **⚙️ C++ Compiler From Scratch**
 A compiler built from the ground up covering lexical analysis, recursive-descent parsing, semantic checks, and custom error detection — designed with future code generation in mind.
 
-**🔍 Search Engine**
-Custom search engine in C++ using an inverted index for efficient text retrieval, with a CLI supporting multi-condition queries and result ranking.
-
 **🏠 Airbnb Clone (Extended)**
 Full-stack booking platform using React, Node.js, MongoDB, and JWT authentication, with role-based access control and admin property/booking management.
+
+**🔍 Search Engine**
+Custom search engine in C++ using an inverted index for efficient text retrieval, with a CLI supporting multi-condition queries and result ranking.
 
 ---
 
 ### Experience Highlights
 
-* 👨‍🏫 **Teaching Assistant** — Software Engineering (CS435) & Artificial Intelligence (CS220), ITU
+* 👨‍🏫 **Teaching Assistant** — Software Engineering (CS453) & Artificial Intelligence (CS220), ITU
 * 🤖 **Machine Learning Intern** — Arch Technologies (spam detection, housing price prediction, digit classification)
 * ☁️ **Salesforce Admin Intern** — Incredibles (Trailhead-certified: objects, automation, custom reporting)
 * 💻 **Front-End Intern** — Certura (responsive portfolio site, to-do app, weather dashboard)
+
+---
+
+### 📄 Resume
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/1VgKdOfs3Q5D9X013MIOUYQzqx_6Nf0ci/view?usp=sharing"><img title="Resume" src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+</p>
 
 ---
 
