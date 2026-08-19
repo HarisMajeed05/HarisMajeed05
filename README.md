@@ -83,7 +83,7 @@ Computer Science student passionate about the intersection of machine learning, 
 ### 📄 Resume
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1VgKdOfs3Q5D9X013MIOUYQzqx_6Nf0ci/view?usp=sharing" ><img title="Resume" src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/17BfmxrvdsJnaKDuiCunApBNM1tg35Ls3/view?usp=sharing" ><img title="Resume" src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
