@@ -53,7 +53,7 @@ Open To: AI Engineering roles, Computer Vision research collaborations, Full-sta
 ### AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|---|---|---|
+| --- | --- | --- |
 | Computer Vision | Advanced | YOLO, RF-DETR, DINOv2, CLIP, ByteTrack, real-time detection and tracking |
 | Document Intelligence | Advanced | Tesseract, DocTR, OCR pipelines, field-level detection |
 | LLMs & RAG | Advanced | LangChain, FAISS, Groq API, project-scoped retrieval, source-cited answers |
@@ -72,7 +72,7 @@ Open To: AI Engineering roles, Computer Vision research collaborations, Full-sta
 Full-stack RAG-based legal assistant with project-scoped retrieval and source-cited answers.
 
 | | |
-|---|---|
+| --- | --- |
 | **Stack** | React, FastAPI, MongoDB, LangChain, FAISS, Groq API |
 | **Scale** | Multi-project document retrieval |
 | **Performance** | Low-latency retrieval via FAISS vector search |
@@ -89,7 +89,7 @@ Full-stack RAG-based legal assistant with project-scoped retrieval and source-ci
 Real-time people-counting system optimized to run entirely on CPU.
 
 | | |
-|---|---|
+| --- | --- |
 | **Stack** | YOLO / RT-DETR, ByteTrack, OpenCV |
 | **Scale** | Real-time video stream processing |
 | **Performance** | Runs fully on CPU, no GPU dependency |
@@ -106,7 +106,7 @@ Real-time people-counting system optimized to run entirely on CPU.
 Three-stage detect, explain, judge pipeline (ExDDV-Judge) replacing large VLMs with lightweight alternatives.
 
 | | |
-|---|---|
+| --- | --- |
 | **Stack** | LLMs, VLMs, PyTorch |
 | **Scale** | Single consumer GPU deployment |
 | **Performance** | Over 80% reduction in model size vs. baseline large VLMs |
@@ -123,7 +123,7 @@ Three-stage detect, explain, judge pipeline (ExDDV-Judge) replacing large VLMs w
 Toy compiler covering lexical analysis, recursive-descent parsing, and semantic checks.
 
 | | |
-|---|---|
+| --- | --- |
 | **Stack** | C++ |
 | **Scale** | Single-pass compiler pipeline |
 | **Performance** | N/A |
@@ -140,7 +140,7 @@ Toy compiler covering lexical analysis, recursive-descent parsing, and semantic 
 Full-stack Airbnb-inspired web app with JWT-based authentication and role-based access control.
 
 | | |
-|---|---|
+| --- | --- |
 | **Stack** | React, Node.js, Express, MongoDB |
 | **Scale** | Multi-role user system |
 | **Performance** | N/A |
@@ -157,7 +157,7 @@ Full-stack Airbnb-inspired web app with JWT-based authentication and role-based 
 Custom search engine using an inverted index for efficient text retrieval.
 
 | | |
-|---|---|
+| --- | --- |
 | **Stack** | C++ |
 | **Scale** | Inverted-index based retrieval |
 | **Performance** | Efficient text lookup at scale |
@@ -198,7 +198,7 @@ Building computer vision and document intelligence pipelines for production use 
 <div align="center">
 
 | Recognition | Details |
-|---|---|
+| --- | --- |
 | Final Year Project | Multimodal Deepfake Detection using LLMs and VLMs, supervised by Dr. Waqas Sultani |
 | Academic Standing | BS Computer Science, ITU Lahore, CGPA 3.28/4.0 |
 | Teaching | TA for Software Engineering and Artificial Intelligence courses |
@@ -211,27 +211,6 @@ Building computer vision and document intelligence pipelines for production use 
 
 <p align="center">
   <a href="https://github.com/HarisMajeed05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarisMajeed05&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisMajeed05&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisMajeed05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" height="165"/>
-</p>
-
----
-
-### GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarisMajeed05&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
