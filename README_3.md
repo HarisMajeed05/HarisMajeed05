@@ -29,7 +29,7 @@ Location   : Lahore, Pakistan<br/>
 Education  : BS CS, ITU Lahore (CGPA 3.28/4.0)<br/>
 Role       : AI Engineer @ MLBench Pvt Ltd<br/>
 Focus      : Computer Vision, RAG, Document Field Detection<br/>
-Portfolio  : drive.google.com/harismajeed-resume<br/>
+Portfolio  : https://harismajeed05.github.io/portfolio/#<br/>
 Email      : harismajeed0501@gmail.com<br/>
 </samp>
 
