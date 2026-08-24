@@ -7,13 +7,7 @@
   It replaces this placeholder with a self-typing, line-by-line
   reveal of your own headshot rendered as monospace characters.
 -->
-<pre>
-   .:-=+*#%@ .:-=+*#%@
-      .:-=+*#%@%#*=-:.
-   .:-=+*#%@@%#*=-:.
-      .:-=+*#%@%#*=-:.
-   .:-=+*#%@ .:-=+*#%@
-</pre>
+<img src="assets/ascii_portrait.svg" width="440" />
 
 </td>
 <td width="600">
