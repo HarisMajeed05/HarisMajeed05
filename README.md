@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:22D3EE&height=220&section=header&text=Haris%20Majeed%20Raja&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%2B%20Full-Stack%20Engineering&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Vision+%7C+RF-DETR+%2B+DINOv2+Pipelines;Document+Intelligence+%7C+OCR+%2B+Field+Detection;Multimodal+Deepfake+Detection+with+%2B+VLMs;RAG+Systems+%7C+LangChain+%2B+FAISS+%2B+Groq" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Vision+%7C+RF-DETR+%2B+DINOv2+Pipelines;OCR+%2B+Document+Field+Detection;Multimodal+Deepfake+Detection+with+LLMs+%2B+VLMs;RAG+Systems+%7C+LangChain+%2B+FAISS+%2B+Groq" alt="Typing SVG" />
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ### About
 
-AI Engineer working at the intersection of computer vision, document intelligence, and full-stack engineering, with a habit of building systems from the ground up to understand how they actually work before applying modern AI on top of them. Currently building computer vision and document intelligence pipelines at **MLBench Pvt Ltd**, with hands-on work spanning field detection, deepfake detection, and retrieval-augmented generation.
+AI Engineer working at the intersection of computer vision and full-stack engineering, with a habit of building systems from the ground up to understand how they actually work before applying modern AI on top of them. Currently building computer vision pipelines at **MLBench Pvt Ltd**, with project experience spanning OCR-based document field detection, deepfake detection, and retrieval-augmented generation.
 
 Product-engineering mindset: comfortable owning a problem from data pipeline through model to a deployed FastAPI/React interface, not just the modeling layer.
 
@@ -54,10 +54,9 @@ Open To: AI Engineering roles, Computer Vision research collaborations, Full-sta
 
 | Domain | Proficiency | Details |
 | --- | --- | --- |
-| Computer Vision | Advanced | YOLO, RF-DETR, DINOv2, CLIP, ByteTrack, real-time detection and tracking |
-| Document Intelligence | Advanced | Tesseract, DocTR, OCR pipelines, field-level detection |
+| Computer Vision | Advanced | YOLO, RF-DETR, DINOv2, CLIP, ByteTrack, OCR-based document field detection |
 | LLMs & RAG | Advanced | LangChain, FAISS, Groq API, project-scoped retrieval, source-cited answers |
-| Multimodal Systems | Advanced | Deepfake detection using VLMs, detect-explain-judge pipelines |
+| Deepfake Detection (FYP) | Project experience | Detect-explain-judge pipeline using LLMs and VLMs |
 | Full-Stack Engineering | Advanced | FastAPI, Flask, React, Node.js, Express, MongoDB |
 | Systems Programming | Intermediate | Compiler design, inverted-index search engines, C++ |
 
@@ -174,13 +173,13 @@ Custom search engine using an inverted index for efficient text retrieval.
 **AI Engineer** · MLBench Pvt Ltd
 `Present`
 
-Building computer vision and document intelligence pipelines for production use cases.
+Building computer vision pipelines for production use cases, including OCR-based document field detection.
 
-- Designed and deployed CV pipelines for field detection and document understanding
+- Designed and deployed CV pipelines for object detection and document field extraction
 - Worked across the model-to-API-to-frontend stack, not just isolated modeling
-- Applied VLMs to multimodal problems including deepfake detection
+- Applied VLMs and LLMs to multimodal problems including deepfake detection
 
-`Computer Vision` `Document Intelligence` `FastAPI` `PyTorch`
+`Computer Vision` `FastAPI` `PyTorch`
 
 <br/>
 
@@ -199,7 +198,7 @@ Building computer vision and document intelligence pipelines for production use 
 
 | Recognition | Details |
 | --- | --- |
-| Final Year Project | Multimodal Deepfake Detection using VLMs, supervised by Dr. Waqas Sultani |
+| Final Year Project | Multimodal Deepfake Detection using LLMs and VLMs, supervised by Dr. Waqas Sultani |
 | Academic Standing | BS Computer Science, ITU Lahore, CGPA 3.28/4.0 |
 | Teaching | TA for Software Engineering and Artificial Intelligence courses |
 

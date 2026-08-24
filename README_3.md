@@ -7,7 +7,13 @@
   It replaces this placeholder with a self-typing, line-by-line
   reveal of your own headshot rendered as monospace characters.
 -->
-<img src="assets/ascii_portrait.svg" width="440" />
+<pre>
+   .:-=+*#%@ .:-=+*#%@
+      .:-=+*#%@%#*=-:.
+   .:-=+*#%@@%#*=-:.
+      .:-=+*#%@%#*=-:.
+   .:-=+*#%@ .:-=+*#%@
+</pre>
 
 </td>
 <td width="600">
@@ -22,7 +28,7 @@
 Location   : Lahore, Pakistan<br/>
 Education  : BS CS, ITU Lahore (CGPA 3.28/4.0)<br/>
 Role       : AI Engineer @ MLBench Pvt Ltd<br/>
-Focus      : Computer Vision, Document Intelligence, RAG<br/>
+Focus      : Computer Vision, RAG, Document Field Detection<br/>
 Portfolio  : drive.google.com/harismajeed-resume<br/>
 Email      : harismajeed0501@gmail.com<br/>
 </samp>
@@ -42,7 +48,7 @@ Email      : harismajeed0501@gmail.com<br/>
 ---
 
 <blockquote>
-I build systems from scratch to understand how they actually work, then apply modern AI models on top of that understanding. AI Engineer at MLBench Pvt Ltd, working on computer vision and document intelligence pipelines.
+I build systems from scratch to understand how they actually work, then apply modern AI models on top of that understanding. AI Engineer at MLBench Pvt Ltd, working on computer vision pipelines and OCR-based document field detection.
 </blockquote>
 
 <br/>
