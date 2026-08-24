@@ -1,0 +1,83 @@
+<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#10B981">
+        <animate attributeName="offset" values="1;0.6;1" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1180" height="610" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- left panel: ASCII style block -->
+  <g transform="translate(48,60)" font-family="monospace" font-size="12.9" fill="url(#accent)" filter="url(#glow)">
+    <text x="0" y="0" opacity="0.9">.:-=+*#%@ .:-=+*#%@ .:-=+*#%@</text>
+    <text x="0" y="18" opacity="0.85">   .:-=+*#%@@%#*=-:.   .:-=+</text>
+    <text x="0" y="36" opacity="0.8">      .:-=+*#%@%#*=-:.      </text>
+    <text x="0" y="54" opacity="0.85">   .:-=+*#%@@%#*=-:.   .:-=+</text>
+    <text x="0" y="72" opacity="0.9">.:-=+*#%@ .:-=+*#%@ .:-=+*#%@</text>
+    <rect x="0" y="80" width="8" height="14" fill="#22D3EE">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- divider -->
+  <line x1="440" y1="40" x2="440" y2="570" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- right panel: terminal -->
+  <g transform="translate(480,70)" font-family="monospace" fill="#F8FAFC">
+    <text x="0" y="0" font-size="26" fill="#F8FAFC">Hi, I'm Haris Majeed Raja</text>
+    <text x="0" y="40" font-size="18" fill="#22D3EE">
+      AI Engineer &amp; Computer Vision Developer
+      <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="0" y="90" font-size="14" fill="#94A3B8">Location   : Lahore, Pakistan</text>
+    <text x="0" y="114" font-size="14" fill="#94A3B8">Education  : BS CS, ITU Lahore</text>
+    <text x="0" y="138" font-size="14" fill="#94A3B8">Focus      : CV + Document Intelligence + RAG</text>
+    <text x="0" y="162" font-size="14" fill="#94A3B8">Portfolio  : drive.google.com/harismajeed-resume</text>
+    <text x="0" y="186" font-size="14" fill="#94A3B8">Email      : harismajeed0501@gmail.com</text>
+
+    <!-- skill pills -->
+    <g font-size="13" fill="#0F172A">
+      <rect x="0" y="220" width="70" height="28" rx="14" fill="url(#accent)"/>
+      <text x="14" y="238">Python</text>
+      <rect x="80" y="220" width="72" height="28" rx="14" fill="url(#accent)"/>
+      <text x="94" y="238">PyTorch</text>
+      <rect x="162" y="220" width="60" height="28" rx="14" fill="url(#accent)"/>
+      <text x="174" y="238">React</text>
+      <rect x="232" y="220" width="80" height="28" rx="14" fill="url(#accent)"/>
+      <text x="246" y="238">FastAPI</text>
+      <rect x="322" y="220" width="60" height="28" rx="14" fill="url(#accent)"/>
+      <text x="334" y="238">YOLO</text>
+      <rect x="392" y="220" width="90" height="28" rx="14" fill="url(#accent)"/>
+      <text x="406" y="238">LangChain</text>
+    </g>
+
+    <!-- social row -->
+    <g transform="translate(0,280)" font-size="13" fill="#94A3B8">
+      <text x="0" y="0">GitHub</text>
+      <text x="70" y="0">LinkedIn</text>
+      <text x="150" y="0">Portfolio</text>
+    </g>
+  </g>
+
+  <!-- border shimmer -->
+  <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.5">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>

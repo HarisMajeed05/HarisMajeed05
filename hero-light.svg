@@ -1,0 +1,77 @@
+<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgL" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F8FAFC"/>
+    </linearGradient>
+    <linearGradient id="accentL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#10B981">
+        <animate attributeName="offset" values="1;0.6;1" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glowL">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1180" height="610" rx="24" fill="url(#bgL)"/>
+  <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="rgba(15,23,42,0.08)" stroke-width="1"/>
+
+  <g transform="translate(48,60)" font-family="monospace" font-size="12.9" fill="url(#accentL)" filter="url(#glowL)">
+    <text x="0" y="0" opacity="0.9">.:-=+*#%@ .:-=+*#%@ .:-=+*#%@</text>
+    <text x="0" y="18" opacity="0.85">   .:-=+*#%@@%#*=-:.   .:-=+</text>
+    <text x="0" y="36" opacity="0.8">      .:-=+*#%@%#*=-:.      </text>
+    <text x="0" y="54" opacity="0.85">   .:-=+*#%@@%#*=-:.   .:-=+</text>
+    <text x="0" y="72" opacity="0.9">.:-=+*#%@ .:-=+*#%@ .:-=+*#%@</text>
+    <rect x="0" y="80" width="8" height="14" fill="#2563EB">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <line x1="440" y1="40" x2="440" y2="570" stroke="rgba(15,23,42,0.08)" stroke-width="1"/>
+
+  <g transform="translate(480,70)" font-family="monospace" fill="#0F172A">
+    <text x="0" y="0" font-size="26" fill="#0F172A">Hi, I'm Haris Majeed Raja</text>
+    <text x="0" y="40" font-size="18" fill="#06B6D4">
+      AI Engineer &amp; Computer Vision Developer
+      <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="0" y="90" font-size="14" fill="#475569">Location   : Lahore, Pakistan</text>
+    <text x="0" y="114" font-size="14" fill="#475569">Education  : BS CS, ITU Lahore</text>
+    <text x="0" y="138" font-size="14" fill="#475569">Focus      : CV + Document Intelligence + RAG</text>
+    <text x="0" y="162" font-size="14" fill="#475569">Portfolio  : drive.google.com/harismajeed-resume</text>
+    <text x="0" y="186" font-size="14" fill="#475569">Email      : harismajeed0501@gmail.com</text>
+
+    <g font-size="13" fill="#FFFFFF">
+      <rect x="0" y="220" width="70" height="28" rx="14" fill="url(#accentL)"/>
+      <text x="14" y="238">Python</text>
+      <rect x="80" y="220" width="72" height="28" rx="14" fill="url(#accentL)"/>
+      <text x="94" y="238">PyTorch</text>
+      <rect x="162" y="220" width="60" height="28" rx="14" fill="url(#accentL)"/>
+      <text x="174" y="238">React</text>
+      <rect x="232" y="220" width="80" height="28" rx="14" fill="url(#accentL)"/>
+      <text x="246" y="238">FastAPI</text>
+      <rect x="322" y="220" width="60" height="28" rx="14" fill="url(#accentL)"/>
+      <text x="334" y="238">YOLO</text>
+      <rect x="392" y="220" width="90" height="28" rx="14" fill="url(#accentL)"/>
+      <text x="406" y="238">LangChain</text>
+    </g>
+
+    <g transform="translate(0,280)" font-size="13" fill="#475569">
+      <text x="0" y="0">GitHub</text>
+      <text x="70" y="0">LinkedIn</text>
+      <text x="150" y="0">Portfolio</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="url(#accentL)" stroke-width="1.5" opacity="0.4">
+    <animate attributeName="opacity" values="0.15;0.5;0.15" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
