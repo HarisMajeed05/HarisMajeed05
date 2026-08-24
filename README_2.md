@@ -57,6 +57,14 @@ AI Engineer working across computer vision and full-stack engineering, with hand
 
 ---
 
+### Portfolio
+
+<p align="left">
+  <a href="https://harismajeed05.github.io/portfolio/"><img title="Portfolio" src="https://img.shields.io/badge/View_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
 ### Resume
 
 <p align="left">

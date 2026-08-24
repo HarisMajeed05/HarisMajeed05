@@ -9,7 +9,7 @@
 ![BS Computer Science](https://img.shields.io/badge/BS_Computer_Science-ITU_Lahore-6D28D9?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Lahore,_Pakistan-22D3EE?style=flat-square)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://harismajeed05.github.io/portfolio/#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://harismajeed05.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-majeed-raja-390386267/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harismajeed0501@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarisMajeed05)
@@ -251,13 +251,28 @@ Open To:
 
 ---
 
+### Portfolio
+
+<p align="center">
+  <a href="https://harismajeed05.github.io/portfolio/"><img src="https://img.shields.io/badge/View_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+### Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/17BfmxrvdsJnaKDuiCunApBNM1tg35Ls3/view?usp=sharing"><img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+</p>
+
+---
+
 ### Connect
 
 <p align="center">
   <a href="mailto:harismajeed0501@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/haris-majeed-raja-390386267/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/HarisMajeed05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/17BfmxrvdsJnaKDuiCunApBNM1tg35Ls3/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 <div align="center">
