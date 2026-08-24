@@ -1,106 +1,74 @@
-<table>
-<tr>
-<td width="440">
-
-<!--
-  ASCII portrait goes here once generated (see setup notes below).
-  It replaces this placeholder with a self-typing, line-by-line
-  reveal of your own headshot rendered as monospace characters.
--->
-<img src="assets/ascii_portrait.svg" width="440" />
-
-</td>
-<td width="600">
-
-**Hi, I'm Haris Majeed Raja**
-<br/>
-`AI Engineer` · `Computer Vision` · `Full-Stack`
-
-<br/>
-
-<samp>
-Location   : Lahore, Pakistan<br/>
-Education  : BS CS, ITU Lahore (CGPA 3.28/4.0)<br/>
-Role       : AI Engineer @ MLBench Pvt Ltd<br/>
-Focus      : Computer Vision, Document Intelligence, RAG<br/>
-Portfolio  : drive.google.com/harismajeed-resume<br/>
-Email      : harismajeed0501@gmail.com<br/>
-</samp>
-
-<br/>
-
-<samp>Python · PyTorch · React · FastAPI · YOLO · LangChain</samp>
-
-<br/><br/>
-
-[GitHub](https://github.com/HarisMajeed05) · [LinkedIn](https://www.linkedin.com/in/haris-majeed-raja-390386267/) · [Resume](https://drive.google.com/file/d/17BfmxrvdsJnaKDuiCunApBNM1tg35Ls3/view?usp=sharing)
-
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="Haris Majeed Raja" src="assets/hero-dark.svg">
+</picture>
 
 ---
 
-<blockquote>
-I build systems from scratch to understand how they actually work, then apply modern AI models on top of that understanding. AI Engineer at MLBench Pvt Ltd, working on computer vision and document intelligence pipelines.
-</blockquote>
+### About
 
-<br/>
+AI Engineer working across computer vision, document intelligence, and full-stack engineering. Currently building CV and document intelligence pipelines at **MLBench Pvt Ltd**. I like building systems from scratch to understand how they really work (compilers, search engines) before applying modern AI models on top of them, for problems like document field detection, multimodal deepfake detection, and retrieval-augmented chatbots.
 
+- BS Computer Science, ITU Lahore, CGPA 3.28/4.0
 - Final Year Project: **Multimodal Deepfake Detection using LLMs and VLMs**, supervised by Dr. Waqas Sultani
 - Teaching Assistant for Software Engineering and Artificial Intelligence at ITU
 - Background across ML internships, front-end development, and Salesforce administration
 
 ---
 
-### Featured Projects
+### Core Competencies
 
-**Legal AI Chatbot** <samp>· React · FastAPI · MongoDB · LangChain · FAISS · Groq</samp><br/>
-Full-stack RAG-based legal assistant with project-scoped retrieval and source-cited answers.
-[Repo](https://github.com/HarisMajeed05/legal-ai-chatbot)
+**Languages**
 
-**Footfall Counter** <samp>· YOLO/RT-DETR · ByteTrack · OpenCV</samp><br/>
-Real-time people-counting system with configurable virtual-line entry/exit counting, runs entirely on CPU.
-[Repo](https://github.com/HarisMajeed05/Footfall-counter-Yolo)
+<img src="https://skillicons.dev/icons?i=cpp,python,c,java,js" />
 
-**Multimodal Deepfake Detection (FYP)** <samp>· LLMs · VLMs · PyTorch</samp><br/>
-Three-stage detect, explain, judge pipeline (ExDDV-Judge), over 80% smaller than baseline large VLMs, runs on a single consumer GPU.
+**Machine Learning & Computer Vision**
 
-**C++ Compiler From Scratch** <samp>· C++</samp><br/>
-Lexical analysis, recursive-descent parsing, semantic checks.
-[Repo](https://github.com/HarisMajeed05/Cpp-Compiler-From-Scratch)
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,huggingface" />
 
-**Airbnb Clone (Extended)** <samp>· React · Node.js · Express · MongoDB</samp><br/>
-Full-stack clone with JWT authentication and role-based access control.
-[Repo](https://github.com/HarisMajeed05/Airbnb-Inspired-Homepage)
+**Full-Stack**
 
-**Search Engine** <samp>· C++</samp><br/>
-Custom search engine using an inverted index for efficient text retrieval.
-[Repo](https://github.com/HarisMajeed05/Search-Engine)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,mongodb,html,css" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,vscode,linux,jupyter" />
 
 ---
 
-### Contribution Year
+### Featured Projects
 
-<!-- generated nightly by .github/workflows/refresh-stats.yml, drawn from your own contribution data, one character per day, same ramp as the portrait -->
-<img src="year.svg" alt="contribution year" />
+- **[Legal AI Chatbot](https://github.com/HarisMajeed05/legal-ai-chatbot)** — Full-stack RAG-based legal assistant using React, FastAPI, MongoDB, LangChain, FAISS, and the Groq API, with project-scoped retrieval and source-cited answers.
+- **[Footfall Counter](https://github.com/HarisMajeed05/Footfall-counter-Yolo)** — Real-time people-counting system using YOLO/RT-DETR and ByteTrack, running entirely on CPU.
+- **Multimodal Deepfake Detection (FYP)** — Detect-explain-judge pipeline (ExDDV-Judge) that cuts model size by over 80% versus large VLMs while running on a single consumer GPU.
+- **[C++ Compiler From Scratch](https://github.com/HarisMajeed05/Cpp-Compiler-From-Scratch)** — Lexical analysis, recursive-descent parsing, semantic checks.
+- **[Airbnb Clone (Extended)](https://github.com/HarisMajeed05/Airbnb-Inspired-Homepage)** — Full-stack clone with JWT auth and role-based access control.
+- **[Search Engine](https://github.com/HarisMajeed05/Search-Engine)** — Custom C++ search engine using an inverted index.
 
-<p>
-  <img src="stats.svg" alt="contribution stats" />
-  <img src="streak.svg" alt="streak stats" />
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarisMajeed05&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisMajeed05&theme=dark&hide_border=true" height="165" />
 </p>
-<img src="langs.svg" alt="top languages" />
+
+---
+
+### Resume
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/17BfmxrvdsJnaKDuiCunApBNM1tg35Ls3/view?usp=sharing"><img title="Resume" src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+</p>
 
 ---
 
 ### Connect
 
-<p>
+<p align="left">
   <a href="mailto:harismajeed0501@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/haris-majeed-raja-390386267/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/HarisMajeed05"><img title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-<sub>Portrait and contribution graphics are generated by this repository's own GitHub Action, no third-party stat services. Setup notes below.</sub>
