@@ -23,13 +23,33 @@
   <rect width="1180" height="610" rx="24" fill="url(#bgL)"/>
   <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="rgba(15,23,42,0.08)" stroke-width="1"/>
 
-  <g transform="translate(48,60)" font-family="monospace" font-size="12.9" fill="url(#accentL)" filter="url(#glowL)">
-    <text x="0" y="0" opacity="0.9">.:-=+*#%@ .:-=+*#%@ .:-=+*#%@</text>
-    <text x="0" y="18" opacity="0.85">   .:-=+*#%@@%#*=-:.   .:-=+</text>
-    <text x="0" y="36" opacity="0.8">      .:-=+*#%@%#*=-:.      </text>
-    <text x="0" y="54" opacity="0.85">   .:-=+*#%@@%#*=-:.   .:-=+</text>
-    <text x="0" y="72" opacity="0.9">.:-=+*#%@ .:-=+*#%@ .:-=+*#%@</text>
-    <rect x="0" y="80" width="8" height="14" fill="#2563EB">
+  <!-- left panel: real ASCII portrait -->
+  <g transform="translate(48,150)" font-family="monospace" font-size="12" fill="url(#accentL)" filter="url(#glowL)">
+    <text x="0" y="13.5" opacity="0.9" xml:space="preserve">                   `-=+***+=-`.               </text>
+    <text x="0" y="27.0" opacity="0.9" xml:space="preserve">                .=s#%%%#%%%%%#s=              </text>
+    <text x="0" y="40.5" opacity="0.9" xml:space="preserve">                =s##%%%##%%%%%%#*:            </text>
+    <text x="0" y="54.0" opacity="0.9" xml:space="preserve">               `*ss###ssc+=+*s%%#c-           </text>
+    <text x="0" y="67.5" opacity="0.9" xml:space="preserve">               :csc=:``. `:-++s%sc=           </text>
+    <text x="0" y="81.0" opacity="0.9" xml:space="preserve">               `s#c**cs*=+s##sc%+=:           </text>
+    <text x="0" y="94.5" opacity="0.9" xml:space="preserve">                +#c*cs+*=-**cc*s-             </text>
+    <text x="0" y="108.0" opacity="0.9" xml:space="preserve">                :cc-`.`==:=::-*c`             </text>
+    <text x="0" y="121.5" opacity="0.9" xml:space="preserve">                 :cc+=*s#ss**c#=              </text>
+    <text x="0" y="135.0" opacity="0.9" xml:space="preserve">                  `##**+***+s#s.              </text>
+    <text x="0" y="148.5" opacity="0.9" xml:space="preserve">                   `s%#****c##=:.             </text>
+    <text x="0" y="162.0" opacity="0.9" xml:space="preserve">                   :*#%%%%%#c*=*c-.           </text>
+    <text x="0" y="175.5" opacity="0.9" xml:space="preserve">                .:-+=sccss*==+-=c*+=`         </text>
+    <text x="0" y="189.0" opacity="0.9" xml:space="preserve">              .-+=++=#s=---*s=-+cc*cs=::.     </text>
+    <text x="0" y="202.5" opacity="0.9" xml:space="preserve">          ..`-+=+=+==s%s=:=s#:==****%*-+%#s+` </text>
+    <text x="0" y="216.0" opacity="0.9" xml:space="preserve">        `=ss*++===*-==%%s+c%*:=+c*+*#c:-s%%%%*</text>
+    <text x="0" y="229.5" opacity="0.9" xml:space="preserve">       :c%%**+++-+c=+-#%*==#-:=**c**sc.:*ss*#s</text>
+    <text x="0" y="243.0" opacity="0.9" xml:space="preserve">      .+#%c====+=+*++=c%sc##::+*+c++cs``+s#++c</text>
+    <text x="0" y="256.5" opacity="0.9" xml:space="preserve">      -sc#=--==++++++*+%sccc-=++=c*+c#``+c#*+*</text>
+    <text x="0" y="270.0" opacity="0.9" xml:space="preserve">      *###=-==+*=-==++=#ccc*:-=+*c++c#``+%%%sc</text>
+    <text x="0" y="283.5" opacity="0.9" xml:space="preserve">     .*#%%=--==**++==+=sc##+====+*++c#``+%#s*=</text>
+    <text x="0" y="297.0" opacity="0.9" xml:space="preserve">     +sscc+:-==*++++++=cs##+----+c++c#``=%%**c</text>
+    <text x="0" y="310.5" opacity="0.9" xml:space="preserve">    :s##scc`==+c*+++++=cs##+=--+*c+*c#``=%s=*=</text>
+    <text x="0" y="324.0" opacity="0.9" xml:space="preserve">   .*##sc*%=-==**=+++==*s%#*=--=*s**c#``=#ssss</text>
+    <rect x="0" y="345" width="8" height="14" fill="#2563EB">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
   </g>
@@ -64,10 +84,16 @@
       <text x="406" y="238">LangChain</text>
     </g>
 
-    <g transform="translate(0,280)" font-size="13" fill="#475569">
-      <text x="0" y="0">GitHub</text>
-      <text x="70" y="0">LinkedIn</text>
-      <text x="150" y="0">Portfolio</text>
+    <g transform="translate(0,280)" font-size="13">
+      <a href="https://github.com/HarisMajeed05" target="_blank">
+        <text x="0" y="0" fill="#475569" text-decoration="underline">GitHub</text>
+      </a>
+      <a href="https://www.linkedin.com/in/haris-majeed-raja-390386267/" target="_blank">
+        <text x="70" y="0" fill="#475569" text-decoration="underline">LinkedIn</text>
+      </a>
+      <a href="https://drive.google.com/file/d/17BfmxrvdsJnaKDuiCunApBNM1tg35Ls3/view?usp=sharing" target="_blank">
+        <text x="150" y="0" fill="#475569" text-decoration="underline">Portfolio</text>
+      </a>
     </g>
   </g>
 
