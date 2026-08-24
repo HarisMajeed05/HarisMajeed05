@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:22D3EE&height=220&section=header&text=Haris%20Majeed%20Raja&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%2B%20Full-Stack%20Engineering&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Vision+%7C+RF-DETR+%2B+DINOv2+Pipelines;Document+Intelligence+%7C+OCR+%2B+Field+Detection;Multimodal+Deepfake+Detection+with+LLMs+%2B+VLMs;RAG+Systems+%7C+LangChain+%2B+FAISS+%2B+Groq" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Vision+%7C+RF-DETR+%2B+DINOv2+Pipelines;Document+Intelligence+%7C+OCR+%2B+Field+Detection;Multimodal+Deepfake+Detection+with+%2B+VLMs;RAG+Systems+%7C+LangChain+%2B+FAISS+%2B+Groq" alt="Typing SVG" />
 
 <br/>
 
@@ -57,7 +57,7 @@ Open To: AI Engineering roles, Computer Vision research collaborations, Full-sta
 | Computer Vision | Advanced | YOLO, RF-DETR, DINOv2, CLIP, ByteTrack, real-time detection and tracking |
 | Document Intelligence | Advanced | Tesseract, DocTR, OCR pipelines, field-level detection |
 | LLMs & RAG | Advanced | LangChain, FAISS, Groq API, project-scoped retrieval, source-cited answers |
-| Multimodal Systems | Advanced | Deepfake detection using LLMs and VLMs, detect-explain-judge pipelines |
+| Multimodal Systems | Advanced | Deepfake detection using VLMs, detect-explain-judge pipelines |
 | Full-Stack Engineering | Advanced | FastAPI, Flask, React, Node.js, Express, MongoDB |
 | Systems Programming | Intermediate | Compiler design, inverted-index search engines, C++ |
 
@@ -178,7 +178,7 @@ Building computer vision and document intelligence pipelines for production use 
 
 - Designed and deployed CV pipelines for field detection and document understanding
 - Worked across the model-to-API-to-frontend stack, not just isolated modeling
-- Applied VLMs and LLMs to multimodal problems including deepfake detection
+- Applied VLMs to multimodal problems including deepfake detection
 
 `Computer Vision` `Document Intelligence` `FastAPI` `PyTorch`
 
@@ -199,7 +199,7 @@ Building computer vision and document intelligence pipelines for production use 
 
 | Recognition | Details |
 | --- | --- |
-| Final Year Project | Multimodal Deepfake Detection using LLMs and VLMs, supervised by Dr. Waqas Sultani |
+| Final Year Project | Multimodal Deepfake Detection using VLMs, supervised by Dr. Waqas Sultani |
 | Academic Standing | BS Computer Science, ITU Lahore, CGPA 3.28/4.0 |
 | Teaching | TA for Software Engineering and Artificial Intelligence courses |
 
