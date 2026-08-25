@@ -1,0 +1,26 @@
+<svg width="620" height="620" viewBox="0 0 620 620" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+<text x="310.0" y="32" text-anchor="middle" font-size="17" fill="#E6EDF3" font-weight="600">Skill Radar (self-rated)</text>
+<polygon points="310.0,277.5 338.1,293.8 338.1,326.2 310.0,342.5 281.9,326.2 281.9,293.8" fill="none" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
+<polygon points="310.0,245.0 366.3,277.5 366.3,342.5 310.0,375.0 253.7,342.5 253.7,277.5" fill="none" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
+<polygon points="310.0,212.5 394.4,261.2 394.4,358.8 310.0,407.5 225.6,358.8 225.6,261.3" fill="none" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
+<polygon points="310.0,180.0 422.6,245.0 422.6,375.0 310.0,440.0 197.4,375.0 197.4,245.0" fill="none" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="310.0" y1="310.0" x2="310.0" y2="180.0" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
+<text x="310.0" y="140.0" text-anchor="middle" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">Computer Vision (90)</text>
+<line x1="310.0" y1="310.0" x2="422.6" y2="245.0" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
+<text x="457.2" y="225.0" text-anchor="start" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">PyTorch (82)</text>
+<line x1="310.0" y1="310.0" x2="422.6" y2="375.0" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
+<text x="457.2" y="395.0" text-anchor="start" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">RAG / LLM Systems (85)</text>
+<line x1="310.0" y1="310.0" x2="310.0" y2="440.0" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
+<text x="310.0" y="480.0" text-anchor="middle" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">Full-Stack (84)</text>
+<line x1="310.0" y1="310.0" x2="197.4" y2="375.0" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
+<text x="162.8" y="395.0" text-anchor="end" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">OCR / Doc Pipelines (78)</text>
+<line x1="310.0" y1="310.0" x2="197.4" y2="245.0" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
+<text x="162.8" y="225.0" text-anchor="end" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">C++ / Systems (70)</text>
+<polygon points="310.0,193.0 402.3,256.7 405.7,365.2 310.0,419.2 222.2,360.7 231.2,264.5" fill="#39D353" fill-opacity="0.35" stroke="#39D353" stroke-width="2"/>
+<circle cx="310.0" cy="193.0" r="3.5" fill="#39D353"/>
+<circle cx="402.3" cy="256.7" r="3.5" fill="#39D353"/>
+<circle cx="405.7" cy="365.2" r="3.5" fill="#39D353"/>
+<circle cx="310.0" cy="419.2" r="3.5" fill="#39D353"/>
+<circle cx="222.2" cy="360.7" r="3.5" fill="#39D353"/>
+<circle cx="231.2" cy="264.5" r="3.5" fill="#39D353"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="620" height="620" viewBox="0 0 620 620" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+<text x="310.0" y="32" text-anchor="middle" font-size="17" fill="#1F2328" font-weight="600">Language Radar (from repos)</text>
+<polygon points="310.0,277.5 338.1,293.8 338.1,326.2 310.0,342.5 281.9,326.2 281.9,293.8" fill="none" stroke="#57606a" stroke-opacity="0.18" stroke-width="1"/>
+<polygon points="310.0,245.0 366.3,277.5 366.3,342.5 310.0,375.0 253.7,342.5 253.7,277.5" fill="none" stroke="#57606a" stroke-opacity="0.18" stroke-width="1"/>
+<polygon points="310.0,212.5 394.4,261.2 394.4,358.8 310.0,407.5 225.6,358.8 225.6,261.3" fill="none" stroke="#57606a" stroke-opacity="0.18" stroke-width="1"/>
+<polygon points="310.0,180.0 422.6,245.0 422.6,375.0 310.0,440.0 197.4,375.0 197.4,245.0" fill="none" stroke="#57606a" stroke-opacity="0.18" stroke-width="1"/>
+<line x1="310.0" y1="310.0" x2="310.0" y2="180.0" stroke="#57606a" stroke-opacity="0.18" stroke-width="1"/>
+<text x="310.0" y="140.0" text-anchor="middle" font-size="12.5" fill="#1F2328" dominant-baseline="middle">Python (38%)</text>
+<line x1="310.0" y1="310.0" x2="422.6" y2="245.0" stroke="#57606a" stroke-opacity="0.18" stroke-width="1"/>
+<text x="457.2" y="225.0" text-anchor="start" font-size="12.5" fill="#1F2328" dominant-baseline="middle">C++ (27%)</text>
+<line x1="310.0" y1="310.0" x2="422.6" y2="375.0" stroke="#57606a" stroke-opacity="0.18" stroke-width="1"/>
+<text x="457.2" y="395.0" text-anchor="start" font-size="12.5" fill="#1F2328" dominant-baseline="middle">JavaScript (18%)</text>
+<line x1="310.0" y1="310.0" x2="310.0" y2="440.0" stroke="#57606a" stroke-opacity="0.18" stroke-width="1"/>
+<text x="310.0" y="480.0" text-anchor="middle" font-size="12.5" fill="#1F2328" dominant-baseline="middle">TypeScript (9%)</text>
+<line x1="310.0" y1="310.0" x2="197.4" y2="375.0" stroke="#57606a" stroke-opacity="0.18" stroke-width="1"/>
+<text x="162.8" y="395.0" text-anchor="end" font-size="12.5" fill="#1F2328" dominant-baseline="middle">HTML/CSS (6%)</text>
+<line x1="310.0" y1="310.0" x2="197.4" y2="245.0" stroke="#57606a" stroke-opacity="0.18" stroke-width="1"/>
+<text x="162.8" y="225.0" text-anchor="end" font-size="12.5" fill="#1F2328" dominant-baseline="middle">Java (4%)</text>
+<polygon points="310.0,260.6 340.4,292.4 330.3,321.7 310.0,321.7 303.2,313.9 305.5,307.4" fill="#0969da" fill-opacity="0.35" stroke="#0969da" stroke-width="2"/>
+<circle cx="310.0" cy="260.6" r="3.5" fill="#0969da"/>
+<circle cx="340.4" cy="292.4" r="3.5" fill="#0969da"/>
+<circle cx="330.3" cy="321.7" r="3.5" fill="#0969da"/>
+<circle cx="310.0" cy="321.7" r="3.5" fill="#0969da"/>
+<circle cx="303.2" cy="313.9" r="3.5" fill="#0969da"/>
+<circle cx="305.5" cy="307.4" r="3.5" fill="#0969da"/>
+</svg>
