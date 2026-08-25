@@ -39,7 +39,7 @@ Email      : harismajeed0501@gmail.com<br/>
 
 <br/><br/>
 
-[GitHub](https://github.com/HarisMajeed05) · [LinkedIn](https://www.linkedin.com/in/haris-majeed-raja-390386267/) · [Portfolio](https://harismajeed05.github.io/portfolio/) · [Resume](https://drive.google.com/file/d/17BfmxrvdsJnaKDuiCunApBNM1tg35Ls3/view?usp=sharing)
+[GitHub](https://github.com/HarisMajeed05) · [LinkedIn](https://www.linkedin.com/in/haris-majeed-raja-390386267/) · [Portfolio](https://harismajeed05.github.io/portfolio/) · [Resume](https://drive.google.com/file/d/1AFsaCTKRIQTyxDbBPXQT2-1yZfoaNnIV/view?usp=sharing)
 
 </td>
 </tr>
@@ -110,7 +110,7 @@ Custom search engine using an inverted index for efficient text retrieval.
 ### Resume
 
 <p>
-  <a href="https://drive.google.com/file/d/17BfmxrvdsJnaKDuiCunApBNM1tg35Ls3/view?usp=sharing"><img title="Resume" src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1AFsaCTKRIQTyxDbBPXQT2-1yZfoaNnIV/view?usp=sharing"><img title="Resume" src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
