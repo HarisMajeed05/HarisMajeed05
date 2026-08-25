@@ -1,0 +1,10 @@
+<svg width="420" height="180" viewBox="0 0 420 180" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+<rect x="1" y="1" width="418" height="178" rx="10" fill="none" stroke="#8B98A5" stroke-opacity="0.3"/>
+<text x="20" y="34" font-size="16" font-weight="700" fill="#E6EDF3">YOLO-Model-Training-Deployment</text>
+<text x="20" y="58" font-size="12" fill="#8B98A5">End-to-end pipeline for training and deploying</text>
+<text x="20" y="76" font-size="12" fill="#8B98A5">YOLO object detection models.</text>
+<rect x="20" y="146" width="58" height="22" rx="11" fill="#161b22"/>
+<text x="49.0" y="161" text-anchor="middle" font-size="10.5" fill="#39D353">Python</text>
+<rect x="86" y="146" width="44" height="22" rx="11" fill="#161b22"/>
+<text x="108.0" y="161" text-anchor="middle" font-size="10.5" fill="#39D353">YOLO</text>
+</svg>

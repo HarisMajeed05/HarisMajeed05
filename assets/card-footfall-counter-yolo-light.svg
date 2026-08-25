@@ -1,9 +1,9 @@
 <svg width="420" height="180" viewBox="0 0 420 180" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
 <rect x="1" y="1" width="418" height="178" rx="10" fill="none" stroke="#57606a" stroke-opacity="0.3"/>
-<text x="20" y="34" font-size="16" font-weight="700" fill="#1F2328">Footfall Counter</text>
-<text x="20" y="58" font-size="12" fill="#57606a">Real-time people counting with YOLO/RT-DETR</text>
-<text x="20" y="76" font-size="12" fill="#57606a">and ByteTrack. Arbitrary-angle virtual line,</text>
-<text x="20" y="94" font-size="12" fill="#57606a">runs entirely on CPU.</text>
+<text x="20" y="34" font-size="16" font-weight="700" fill="#1F2328">Footfall-counter-Yolo</text>
+<text x="20" y="58" font-size="12" fill="#57606a">Footfall Counter An AI powered people counter</text>
+<text x="20" y="76" font-size="12" fill="#57606a">using YOLO and ByteTrack to detect, track, and</text>
+<text x="20" y="94" font-size="12" fill="#57606a">count individuals crossing a defined line in</text>
 <rect x="20" y="146" width="44" height="22" rx="11" fill="#f6f8fa"/>
 <text x="42.0" y="161" text-anchor="middle" font-size="10.5" fill="#1a7f37">YOLO</text>
 <rect x="72" y="146" width="79" height="22" rx="11" fill="#f6f8fa"/>

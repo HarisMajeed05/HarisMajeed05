@@ -1,11 +1,11 @@
 <svg width="620" height="130" viewBox="0 0 620 130" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
 <rect x="1" y="1" width="618" height="128" rx="10" fill="none" stroke="#8B98A5" stroke-opacity="0.25"/>
-<text x="103.33333333333333" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#39D353">18</text>
+<text x="103.33333333333333" y="58" text-anchor="middle" font-size="28" font-weight="700" fill="#39D353">25</text>
 <text x="103.33333333333333" y="84" text-anchor="middle" font-size="12" fill="#8B98A5">public repos</text>
 <line x1="206.66666666666666" y1="20" x2="206.66666666666666" y2="110" stroke="#8B98A5" stroke-opacity="0.15"/>
-<text x="310.0" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#39D353">—</text>
+<text x="310.0" y="58" text-anchor="middle" font-size="28" font-weight="700" fill="#39D353">1</text>
 <text x="310.0" y="84" text-anchor="middle" font-size="12" fill="#8B98A5">total stars</text>
 <line x1="413.3333333333333" y1="20" x2="413.3333333333333" y2="110" stroke="#8B98A5" stroke-opacity="0.15"/>
-<text x="516.6666666666666" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#39D353">—</text>
-<text x="516.6666666666666" y="84" text-anchor="middle" font-size="12" fill="#8B98A5">longest streak</text>
+<text x="516.6666666666666" y="58" text-anchor="middle" font-size="28" font-weight="700" fill="#39D353">C++</text>
+<text x="516.6666666666666" y="84" text-anchor="middle" font-size="12" fill="#8B98A5">top language</text>
 </svg>

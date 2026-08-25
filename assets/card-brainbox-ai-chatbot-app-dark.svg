@@ -1,0 +1,14 @@
+<svg width="420" height="180" viewBox="0 0 420 180" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+<rect x="1" y="1" width="418" height="178" rx="10" fill="none" stroke="#8B98A5" stroke-opacity="0.3"/>
+<text x="20" y="34" font-size="16" font-weight="700" fill="#E6EDF3">brainbox-ai-chatbot-app</text>
+<text x="20" y="58" font-size="12" fill="#8B98A5">Mobile-style AI assistant with real-time chat</text>
+<text x="20" y="76" font-size="12" fill="#8B98A5">and a mock banking interface.</text>
+<rect x="20" y="146" width="51" height="22" rx="11" fill="#161b22"/>
+<text x="45.5" y="161" text-anchor="middle" font-size="10.5" fill="#39D353">React</text>
+<rect x="79" y="146" width="65" height="22" rx="11" fill="#161b22"/>
+<text x="111.5" y="161" text-anchor="middle" font-size="10.5" fill="#39D353">FastAPI</text>
+<rect x="152" y="146" width="65" height="22" rx="11" fill="#161b22"/>
+<text x="184.5" y="161" text-anchor="middle" font-size="10.5" fill="#39D353">MongoDB</text>
+<rect x="225" y="146" width="44" height="22" rx="11" fill="#161b22"/>
+<text x="247.0" y="161" text-anchor="middle" font-size="10.5" fill="#39D353">Groq</text>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "projects": [
+    { "repo": "Object-Defect-Detection", "description": "Vision pipeline grading product quality and defects from image input.", "stack": ["Python", "PyTorch", "DINOv2"] },
+    { "repo": "legal-ai-chatbot", "stack": ["React", "FastAPI", "LangChain", "FAISS", "Groq"] },
+    { "repo": "Footfall-counter-Yolo", "stack": ["YOLO", "ByteTrack", "OpenCV"] },
+    { "repo": "YOLO-Model-Training-Deployment", "description": "End-to-end pipeline for training and deploying YOLO object detection models.", "stack": ["Python", "YOLO"] },
+    { "repo": "brainbox-ai-chatbot-app", "description": "Mobile-style AI assistant with real-time chat and a mock banking interface.", "stack": ["React", "FastAPI", "MongoDB", "Groq"] },
+    { "repo": "AI-Meeting-Summarizer", "description": "Speech-to-text transcription and automated meeting summarization system.", "stack": ["Django", "Transformers"] },
+    { "repo": "Cpp-Compiler-From-Scratch", "stack": ["C++"] }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Computer Vision", "value": 90 },
+    { "label": "PyTorch", "value": 82 },
+    { "label": "RAG / LLM Systems", "value": 85 },
+    { "label": "Full-Stack", "value": 84 },
+    { "label": "OCR / Doc Pipelines", "value": 78 },
+    { "label": "C++ / Systems", "value": 70 }
+  ]
+}
