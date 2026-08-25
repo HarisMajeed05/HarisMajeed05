@@ -11,7 +11,7 @@
 AI Engineer working across computer vision and full-stack engineering, with hands-on experience in OCR-based document processing and retrieval-augmented systems. Currently building computer vision pipelines at **MLBench Pvt Ltd**. I like building systems from scratch to understand how they really work (compilers, search engines) before applying modern AI models on top of them.
 
 - BS Computer Science, ITU Lahore, CGPA 3.28/4.0
-- Final Year Project: **Multimodal Deepfake Detection using VLMs**, supervised by Dr. Waqas Sultani
+- Final Year Project: **Multimodal Deepfake Detection using LLMs and VLMs**, supervised by Dr. Waqas Sultani
 - Teaching Assistant for Software Engineering and Artificial Intelligence at ITU
 - Background across ML internships, front-end development, and Salesforce administration
 
@@ -52,7 +52,7 @@ AI Engineer working across computer vision and full-stack engineering, with hand
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HarisMajeed05&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisMajeed05&theme=dark&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=HarisMajeed05&theme=dark&hide_border=true" height="165" />
 </p>
 
 ---
