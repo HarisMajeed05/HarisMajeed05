@@ -154,11 +154,7 @@ Hi, I'm **Haris Majeed Raja**. AI Engineer building computer vision and RAG syst
 
 ### Contribution calendar
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/metrics.light.svg">
-  <img src="assets/metrics.dark.svg" alt="contribution calendar and activity, refreshed every 6 hours">
-</picture>
+<img src="assets/metrics.svg" alt="contribution calendar and activity, refreshed every 6 hours">
 
 <img src="https://raw.githubusercontent.com/HarisMajeed05/HarisMajeed05/output/snake-dark.svg" alt="contribution snake, refreshed every 12 hours">
 
