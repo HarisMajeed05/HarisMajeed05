@@ -1,10 +1,7 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
-  <img src="assets/portrait-dark.svg" width="360" alt="dot-matrix portrait of Haris Majeed Raja">
-</picture>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:22D3EE&height=220&section=header&text=Haris%20Majeed%20Raja&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%2B%20Full-Stack%20Engineering&descAlignY=58&descSize=18)
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Haris+Majeed+Raja;AI+Engineer+%7C+Computer+Vision+%2B+Full-Stack;RF-DETR+%7C+RAG+%7C+OCR+Pipelines">
 
