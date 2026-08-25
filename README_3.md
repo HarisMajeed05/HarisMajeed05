@@ -53,7 +53,7 @@ I build systems from scratch to understand how they actually work, then apply mo
 
 <br/>
 
-- Final Year Project: **Multimodal Deepfake Detection using LLMs and VLMs**, supervised by Dr. Waqas Sultani
+- Final Year Project: **Multimodal Deepfake Detection using VLMs**, supervised by Dr. Waqas Sultani
 - Teaching Assistant for Software Engineering and Artificial Intelligence at ITU
 - Background across ML internships, front-end development, and Salesforce administration
 
