@@ -6,7 +6,7 @@
   <img src="assets/portrait-dark.svg" width="360" alt="dot-matrix portrait of Haris Majeed Raja">
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Haris+Majeed+Raja;AI+Engineer+%7C+Computer+Vision+%2B+Full-Stack;RF-DETR+%7C+RAG+%7C+OCR+Pipelines">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Haris+Majeed+Raja;AI+Engineer+%7C+Computer+Vision+%2B+Full-Stack;RF-DETR+%7C+RAG+%7C+Object+Detection">
 
 <a href="https://harismajeed05.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/haris-majeed-raja-390386267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -22,12 +22,12 @@
 ## `~/` whoami
 
 ```console
-$ cat about.txt
+cat about.txt
 ```
 
 Hi, I'm **Haris Majeed Raja**. AI Engineer building computer vision and RAG systems, from research to production.
 
-- Currently building **field detection pipelines** at MLBench, replacing a client's three-model system with a single fine-tuned RF-DETR model
+- One project at MLBench: replaced a client's three-model document form field detection pipeline with a single fine-tuned RF-DETR model
 - Portfolio: **[harismajeed05.github.io/portfolio](https://harismajeed05.github.io/portfolio/)**
 - Learning **lightweight VLM architectures for edge deployment**
 - Fun fact: my final year project cut a deepfake-detection model's size by over 80% and still beat the baseline
@@ -154,11 +154,7 @@ Hi, I'm **Haris Majeed Raja**. AI Engineer building computer vision and RAG syst
 
 ### Contribution calendar
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/metrics.light.svg">
-  <img src="assets/metrics.dark.svg" alt="contribution calendar and activity, refreshed every 6 hours">
-</picture>
+<img src="assets/metrics.svg" alt="contribution calendar and activity, refreshed every 6 hours">
 
 <img src="https://raw.githubusercontent.com/HarisMajeed05/HarisMajeed05/output/snake-dark.svg" alt="contribution snake, refreshed every 12 hours">
 

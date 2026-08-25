@@ -8,7 +8,7 @@
 
 ### About
 
-AI Engineer working across computer vision and full-stack engineering, with hands-on experience in OCR-based document processing and retrieval-augmented systems. Currently building computer vision pipelines at **MLBench Pvt Ltd**. I like building systems from scratch to understand how they really work (compilers, search engines) before applying modern AI models on top of them.
+AI Engineer working across computer vision and full-stack engineering, with hands-on experience in retrieval-augmented systems and real-time object detection. Currently building computer vision pipelines at **MLBench Pvt Ltd**. I like building systems from scratch to understand how they really work (compilers, search engines) before applying modern AI models on top of them.
 
 - BS Computer Science, ITU Lahore, CGPA 3.28/4.0
 - Final Year Project: **Multimodal Deepfake Detection using LLMs and VLMs**, supervised by Dr. Waqas Sultani

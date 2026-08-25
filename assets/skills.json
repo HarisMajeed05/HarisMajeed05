@@ -5,7 +5,7 @@
     { "label": "PyTorch", "value": 82 },
     { "label": "RAG / LLM Systems", "value": 85 },
     { "label": "Full-Stack", "value": 84 },
-    { "label": "OCR / Doc Pipelines", "value": 78 },
-    { "label": "C++ / Systems", "value": 70 }
+    { "label": "C++ / Systems", "value": 70 },
+    { "label": "Object Detection", "value": 88 }
   ]
 }

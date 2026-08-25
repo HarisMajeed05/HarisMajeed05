@@ -28,7 +28,7 @@
 Location   : Lahore, Pakistan<br/>
 Education  : BS CS, ITU Lahore (CGPA 3.28/4.0)<br/>
 Role       : AI Engineer @ MLBench Pvt Ltd<br/>
-Focus      : Computer Vision, RAG, Document Field Detection<br/>
+Focus      : Computer Vision, RAG Systems<br/>
 Portfolio  : harismajeed05.github.io/portfolio<br/>
 Email      : harismajeed0501@gmail.com<br/>
 </samp>
@@ -48,12 +48,12 @@ Email      : harismajeed0501@gmail.com<br/>
 ---
 
 <blockquote>
-I build systems from scratch to understand how they actually work, then apply modern AI models on top of that understanding. AI Engineer at MLBench Pvt Ltd, working on computer vision pipelines and OCR-based document field detection.
+I build systems from scratch to understand how they actually work, then apply modern AI models on top of that understanding. AI Engineer at MLBench Pvt Ltd, working on computer vision pipelines.
 </blockquote>
 
 <br/>
 
-- Final Year Project: **Multimodal Deepfake Detection using VLMs**, supervised by Dr. Waqas Sultani
+- Final Year Project: **Multimodal Deepfake Detection using LLMs and VLMs**, supervised by Dr. Waqas Sultani
 - Teaching Assistant for Software Engineering and Artificial Intelligence at ITU
 - Background across ML internships, front-end development, and Salesforce administration
 
@@ -69,7 +69,7 @@ Full-stack RAG-based legal assistant with project-scoped retrieval and source-ci
 Real-time people-counting system with configurable virtual-line entry/exit counting, runs entirely on CPU.
 [Repo](https://github.com/HarisMajeed05/Footfall-counter-Yolo)
 
-**Multimodal Deepfake Detection (FYP)** <samp>· VLMs · PyTorch</samp><br/>
+**Multimodal Deepfake Detection (FYP)** <samp>· LLMs · VLMs · PyTorch</samp><br/>
 Three-stage detect, explain, judge pipeline (ExDDV-Judge), over 80% smaller than baseline large VLMs, runs on a single consumer GPU.
 
 **C++ Compiler From Scratch** <samp>· C++</samp><br/>
