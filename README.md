@@ -244,10 +244,10 @@ Learning:
 
 Building:
   - InspecTech: production visual inspection platform using VLM-based defect detection
-  - Job-matching tool: automated resume-to-role scoring across global remote listings
+  - Rice Classification: automated tool to classify grain types
 
 Exploring:
-  - Real-time multimodal pipelines for document + vision fusion
+  - Real-time tyre depth analysis tools
 
 Open To:
   - AI Engineering roles
