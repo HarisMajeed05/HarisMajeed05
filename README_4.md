@@ -35,7 +35,7 @@ Featured projects
 Contribution calendar
 <img src="assets/metrics.svg" alt="contribution calendar and activity, refreshed every 6 hours"> <img src="https://raw.githubusercontent.com/HarisMajeed05/HarisMajeed05/output-style4/snake-dark.svg" alt="contribution snake, refreshed every 12 hours">
 Resume
-<p align="center"> <a href="https://drive.google.com/file/d/1AFsaCTKRIQTyxDbBPXQT2-1yZfoaNnIV/view?usp=sharing"><img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a> </p> <div align="center"> 01100010 01110101 01101001 01101100 01100100 </div>
+<p align="center"> <a href="https://drive.google.com/file/d/1HYb9psz84DxNTNorMdTQGoMg2Ae3Cs8j/view?usp=sharing"><img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a> </p> <div align="center"> 01100010 01110101 01101001 01101100 01100100 </div>
 Project content
 Haris
 Created by you

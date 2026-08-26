@@ -267,7 +267,7 @@ Open To:
 ### Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1AFsaCTKRIQTyxDbBPXQT2-1yZfoaNnIV/view?usp=sharing"><img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1HYb9psz84DxNTNorMdTQGoMg2Ae3Cs8j/view?usp=sharing"><img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
