@@ -39,7 +39,7 @@ Email      : harismajeed0501@gmail.com<br/>
 
 <br/><br/>
 
-[GitHub](https://github.com/HarisMajeed05) · [LinkedIn](https://www.linkedin.com/in/haris-majeed-raja-390386267/) · [Portfolio](https://harismajeed05.github.io/portfolio/) · [Resume](https://drive.google.com/file/d/1HYb9psz84DxNTNorMdTQGoMg2Ae3Cs8j/view?usp=sharing)
+[GitHub](https://github.com/HarisMajeed05) · [LinkedIn](https://www.linkedin.com/in/haris-majeed-raja/) · [Portfolio](https://harismajeed05.github.io/portfolio/) · [Resume](https://drive.google.com/file/d/1HYb9psz84DxNTNorMdTQGoMg2Ae3Cs8j/view?usp=sharing)
 
 </td>
 </tr>
@@ -119,7 +119,7 @@ Custom search engine using an inverted index for efficient text retrieval.
 
 <p>
   <a href="mailto:harismajeed0501@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/haris-majeed-raja-390386267/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/haris-majeed-raja/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/HarisMajeed05"><img title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
