@@ -5,9 +5,9 @@
 <polygon points="310.0,212.5 394.4,261.2 394.4,358.8 310.0,407.5 225.6,358.8 225.6,261.3" fill="none" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
 <polygon points="310.0,180.0 422.6,245.0 422.6,375.0 310.0,440.0 197.4,375.0 197.4,245.0" fill="none" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
 <line x1="310.0" y1="310.0" x2="310.0" y2="180.0" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
-<text x="310.0" y="140.0" text-anchor="middle" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">C++ (40%)</text>
+<text x="310.0" y="140.0" text-anchor="middle" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">C++ (37%)</text>
 <line x1="310.0" y1="310.0" x2="422.6" y2="245.0" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
-<text x="457.2" y="225.0" text-anchor="start" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">JavaScript (27%)</text>
+<text x="457.2" y="225.0" text-anchor="start" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">JavaScript (30%)</text>
 <line x1="310.0" y1="310.0" x2="422.6" y2="375.0" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
 <text x="457.2" y="395.0" text-anchor="start" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">Python (22%)</text>
 <line x1="310.0" y1="310.0" x2="310.0" y2="440.0" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
@@ -16,9 +16,9 @@
 <text x="162.8" y="395.0" text-anchor="end" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">CSS (2%)</text>
 <line x1="310.0" y1="310.0" x2="197.4" y2="245.0" stroke="#8B98A5" stroke-opacity="0.18" stroke-width="1"/>
 <text x="162.8" y="225.0" text-anchor="end" font-size="12.5" fill="#E6EDF3" dominant-baseline="middle">C (2%)</text>
-<polygon points="310.0,258.0 340.4,292.4 334.8,324.3 310.0,315.2 307.7,311.3 307.7,308.7" fill="#33C7FF" fill-opacity="0.35" stroke="#33C7FF" stroke-width="2"/>
-<circle cx="310.0" cy="258.0" r="3.5" fill="#33C7FF"/>
-<circle cx="340.4" cy="292.4" r="3.5" fill="#33C7FF"/>
+<polygon points="310.0,261.9 343.8,290.5 334.8,324.3 310.0,315.2 307.7,311.3 307.7,308.7" fill="#33C7FF" fill-opacity="0.35" stroke="#33C7FF" stroke-width="2"/>
+<circle cx="310.0" cy="261.9" r="3.5" fill="#33C7FF"/>
+<circle cx="343.8" cy="290.5" r="3.5" fill="#33C7FF"/>
 <circle cx="334.8" cy="324.3" r="3.5" fill="#33C7FF"/>
 <circle cx="310.0" cy="315.2" r="3.5" fill="#33C7FF"/>
 <circle cx="307.7" cy="311.3" r="3.5" fill="#33C7FF"/>
