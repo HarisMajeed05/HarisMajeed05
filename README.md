@@ -1,6 +1,5 @@
 <div align="center">
 
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:22D3EE&height=220&section=header&text=Haris%20Majeed%20Raja&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%2B%20Full-Stack%20Engineering&descAlignY=58&descSize=18)
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Vision+%7C+Detection%2C+Tracking%2C+Fine-tuning;LLM+Apps+%7C+RAG%2C+Retrieval%2C+Streaming+Chat;Multimodal+AI+%7C+VLMs%2C+Speech%2C+Deepfake+Detection;Model+to+API+to+UI+%7C+Shipped+End+to+End" alt="Typing SVG" />
@@ -26,7 +25,7 @@
 
 ### About
 
-I build AI systems that go from raw data to a working product. At **MLBench** I design computer vision pipelines for real client documents. Outside of that, I have built RAG assistants, a multilingual voice and gesture interface, and a lightweight multimodal deepfake detector for my final year project at ITU Lahore.
+I build AI systems that go from raw data to a working product. At **MLBench** I deliver production computer vision solutions for multiple clients, covering data annotation, model training, evaluation and deployment. Outside of work, I have built RAG assistants, a multilingual voice and gesture interface, and a lightweight multimodal deepfake detector for my final year project at ITU Lahore.
 
 I like owning the full path: data, model, evaluation, API and UI. I also like building core systems from scratch (a compiler, a search engine, a kernel module) so I know exactly what I am trusting when I use a library.
 
@@ -59,7 +58,7 @@ Stack:    Python, PyTorch, FastAPI, React
 | Area | What I do | Tools |
 | --- | --- | --- |
 | Computer Vision | Object detection, tracking, fine-tuning, image classification | YOLO, RF-DETR, DINOv2, ByteTrack, OpenCV, Cellpose-SAM |
-| LLM Apps & RAG | Document-grounded Q&A, source citations, streaming chat, per-project retrieval isolation | LangChain, FAISS, Groq, sentence-transformers |
+| LLM Apps & RAG | Document-grounded Q&A, source citations, streaming chat, per-project retrieval isolation, tool-using assistants | LangChain, FAISS, Groq, sentence-transformers |
 | Multimodal & VLMs | Image-text pipelines, explanation and verification of model outputs | CLIP, BLIP-2, LLaVA-Mini, Qwen-VL, HuggingFace Transformers |
 | Speech & Voice AI | Multilingual speech-to-text, streaming spoken replies, voice login | Whisper (Groq and faster-whisper) |
 | Evaluation & Benchmarking | Precision, recall and F1 comparisons, cross-dataset benchmarks, OCR backend comparisons | scikit-learn, Tesseract, DocTR |
@@ -69,77 +68,110 @@ Stack:    Python, PyTorch, FastAPI, React
 
 ### Featured Projects
 
-#### Legal AI Chatbot
-A document-grounded legal assistant. Users upload PDFs into projects, and every answer cites its source.
-- Per-project retrieval so documents from one case never leak into another
-- JWT auth, conversation memory, streaming replies, PDF chat export, optional OCR for scanned files
-- Runs without a GPU: LLM on Groq, small embedding model on CPU
-
 <details>
 <summary><b>Legal AI Chatbot</b></summary>
 <br/>
 
-Full-stack RAG-based legal assistant with project-scoped retrieval and source-cited answers.
+Full-stack RAG assistant where users upload PDFs into projects and get answers that cite their sources.
 
 | | |
 | --- | --- |
-| **Stack** | React, FastAPI, MongoDB, LangChain, FAISS, Groq API |
-| **Scale** | Multi-project document retrieval |
-| **Performance** | Low-latency retrieval via FAISS vector search |
-| **Security** | Project-scoped access to prevent cross-document leakage |
-| **Impact** | Source-cited answers reduce hallucination risk in legal Q&A |
+| **Stack** | React, FastAPI, MongoDB, LangChain, FAISS, sentence-transformers, Groq API |
+| **Features** | Conversation memory, streaming replies, answer badges (from documents or general knowledge), PDF chat export, project sharing, optional OCR for scanned PDFs |
+| **Scale** | Multiple projects per user, each with its own chats and documents |
+| **Performance** | FAISS vector search, GPU-free setup with the LLM on Groq and a small embedding model on CPU |
+| **Security** | JWT auth, project-scoped retrieval so documents never leak across projects, rate limits on chat and upload |
+| **Impact** | Source-cited answers lower hallucination risk in legal Q&A |
 | **Repository** | [github.com/HarisMajeed05/legal-ai-chatbot](https://github.com/HarisMajeed05/legal-ai-chatbot) |
 
 </details>
 
-**Skills shown:** RAG design, LLM integration, backend API design, full-stack delivery
-**Stack:** React, FastAPI, MongoDB, LangChain, FAISS, Groq
-[View repository](https://github.com/HarisMajeed05/legal-ai-chatbot)
+<details>
+<summary><b>GestVox</b></summary>
+<br/>
 
-#### GestVox
-Hands-free Windows control with hand gestures and a multilingual voice assistant.
-- Gesture control through MediaPipe hand tracking (cursor, click, scroll, zoom, media)
-- Voice assistant that understands English, Urdu, Punjabi and mixed speech, with persistent memory and per-user voice login
-- Streams replies sentence by sentence, supports interruption, and asks for spoken confirmation before risky actions
+Hands-free Windows control using hand gestures and a multilingual voice assistant.
 
-**Skills shown:** Real-time vision, speech AI, LLM tool use, system design for users
-**Stack:** Python, MediaPipe, Whisper, Groq
-[View repository](https://github.com/HarisMajeed05/GestVox)
+| | |
+| --- | --- |
+| **Stack** | Python, MediaPipe, Groq (Whisper and LLM), faster-whisper, PowerShell |
+| **Features** | Gesture cursor, click, drag, scroll, zoom and media control, plus voice control of apps, system settings and files with persistent memory |
+| **Languages** | English, Urdu, Punjabi and mixed speech, detected per sentence, with spoken replies in the same language |
+| **Performance** | Replies stream sentence by sentence and can be interrupted, optional local speech-to-text for offline use, remote camera support over LAN or Tailscale |
+| **Security** | Voice biometric login, separate memory per user, spoken confirmation before destructive actions |
+| **Impact** | Accessible computer control without a keyboard or mouse |
+| **Repository** | [github.com/HarisMajeed05/GestVox](https://github.com/HarisMajeed05/GestVox) |
 
-#### Footfall Counter
-A real-time people counter that runs fully on CPU.
-- YOLO / RT-DETR detection with ByteTrack tracking that holds IDs through occlusion
-- Entry and exit counting across a virtual line at any angle, with an interactive setup tool
-- Tunable confidence, IoU and resolution settings for accuracy versus speed
+</details>
 
-**Skills shown:** Detection and tracking, performance tuning, edge-friendly deployment
-**Stack:** Python, YOLO, RT-DETR, ByteTrack, OpenCV
-[View repository](https://github.com/HarisMajeed05/Footfall-counter-Yolo)
+<details>
+<summary><b>Footfall Counter</b></summary>
+<br/>
 
-#### Search Engine
-A document search engine built from scratch using an inverted index.
-- Indexes words with positions across text files
-- Multi-condition queries with ranked results through a command line interface
+Real-time people counting system that runs entirely on CPU.
 
-**Skills shown:** Information retrieval fundamentals that sit under every RAG system
-**Stack:** C++
-[View repository](https://github.com/HarisMajeed05/Search-Engine)
+| | |
+| --- | --- |
+| **Stack** | Python, YOLO / RT-DETR, ByteTrack, OpenCV |
+| **Features** | Entry and exit counting across a virtual line at any angle, with an interactive tool to set the line for any camera |
+| **Scale** | Real-time video stream processing |
+| **Performance** | No GPU needed, with adjustable confidence, IoU and resolution to balance accuracy and speed |
+| **Reliability** | ByteTrack keeps person IDs through occlusion for stable counts |
+| **Impact** | Foot traffic analytics on low-cost edge hardware |
+| **Repository** | [github.com/HarisMajeed05/Footfall-counter-Yolo](https://github.com/HarisMajeed05/Footfall-counter-Yolo) |
 
-#### C++ Compiler From Scratch
-A toy compiler written in C++ to learn how compilers work.
-- Lexical analysis, recursive descent parser and basic semantic checks
-- Error detection against a custom grammar specification
+</details>
 
-**Skills shown:** Systems thinking, parsing, strong CS fundamentals
-**Stack:** C++
-[View repository](https://github.com/HarisMajeed05/Cpp-Compiler-From-Scratch)
+<details>
+<summary><b>Multimodal Deepfake Detection (Final Year Project)</b></summary>
+<br/>
 
-#### Research Highlight: Multimodal Deepfake Detection (Final Year Project)
-Supervised by Dr. Waqas Sultani, ITU Lahore.
-- Benchmarked SBI, AltFreezing and Face Warping Detection on FaceForensics++, Celeb-DF-v2 and HiDF, showing that binary detectors drop to near-chance accuracy on high quality deepfakes
-- Designed **ExDDV-Judge**, a detect, explain and judge pipeline using BLIP-2 T5-XL and LLaVA-Mini that cuts model size by over 80% and runs on a single consumer GPU
-- Fixed a real-frame misclassification problem with a Dual-DB routing system and a fine-tuned CLIP encoder, lifting real-frame accuracy from 0% to 83%
-- Shipped a Flask web app with per-frame labels, written explanations and trust scores
+Three-stage detect, explain and judge pipeline (ExDDV-Judge) that replaces large VLMs with lightweight ones.
+
+| | |
+| --- | --- |
+| **Stack** | PyTorch, BLIP-2 T5-XL, LLaVA-Mini, CLIP, DeepfakeJudge, Flask |
+| **Research** | Benchmarked SBI, AltFreezing and Face Warping Detection on FaceForensics++, Celeb-DF-v2 and HiDF, showing binary detectors fall to near-chance accuracy on high quality deepfakes |
+| **Scale** | Runs on a single consumer GPU |
+| **Performance** | Over 80% smaller than baseline 11B and 7B VLMs |
+| **Reliability** | Dual-DB routing with a fine-tuned CLIP encoder lifted real-frame accuracy from 0% to 83% |
+| **Impact** | Explanations with faithfulness scores, delivered through a web app with per-frame labels and trust scores |
+| **Supervisor** | Dr. Waqas Sultani, ITU Lahore |
+
+</details>
+
+
+<details>
+<summary><b>C++ Compiler From Scratch</b></summary>
+<br/>
+
+Toy compiler written in C++ to learn how compilers work from first principles.
+
+| | |
+| --- | --- |
+| **Stack** | C++ |
+| **Features** | Lexical analysis, recursive descent parser, basic semantic checks, grammar defined in a custom specification |
+| **Reliability** | Error detection during parsing |
+| **Impact** | Strong systems fundamentals behind how languages and tools are built |
+| **Repository** | [github.com/HarisMajeed05/Cpp-Compiler-From-Scratch](https://github.com/HarisMajeed05/Cpp-Compiler-From-Scratch) |
+
+</details>
+
+<details>
+<summary><b>Search Engine</b></summary>
+<br/>
+
+Document search engine built from scratch in C++ using an inverted index.
+
+| | |
+| --- | --- |
+| **Stack** | C++ |
+| **Features** | Word and position indexing across text files, multi-condition queries, ranked results, command line interface |
+| **Performance** | Inverted index for fast keyword lookup |
+| **Impact** | Shows the retrieval basics that search and RAG systems build on |
+| **Repository** | [github.com/HarisMajeed05/Search-Engine](https://github.com/HarisMajeed05/Search-Engine) |
+
+</details>
 
 ---
 
@@ -147,13 +179,14 @@ Supervised by Dr. Waqas Sultani, ITU Lahore.
 
 **AI Engineer** | MLBench Pvt Ltd | Jun 2026 to Present
 
-- Replaced a client's three-model document field detection pipeline (YOLO, FFDNet/FFDetr, geometry classifier) with a single fine-tuned RF-DETR-Base model
-- Improved F1 from 0.8568 to 0.8896 (precision 0.9335, recall 0.8496) against the client's existing setup
-- Compared Tesseract and DocTR for OCR and found DocTR fixed checkbox glyph misreads and low-resolution footer text errors
-- Annotated client PDFs for field geometry, type and role to build the training set, and tracked experiments to guide model choice
-- Contributed to a rice grain quality and variety analysis tool using DINOv2-based classifiers trained at multiple image resolutions
+- Deliver computer vision solutions for multiple client projects, from problem scoping to a working, deployed system
+- Fine-tune and benchmark detection and classification models (RF-DETR, DINOv2) and pick the best one using measured metrics, not guesswork
+- Build training datasets by annotating client data, and track experiments to guide model and tool choices
+- Evaluate alternative models and tools such as OCR engines before they go into a pipeline
+- Apply VLMs to multimodal and visual inspection problems
+- Work across the full stack, from model to API to frontend, so results reach users in a usable form
 
-`Computer Vision` `RF-DETR` `DINOv2` `OCR` `PyTorch`
+`Computer Vision` `RF-DETR` `DINOv2` `VLMs` `OCR` `PyTorch` `FastAPI`
 
 **Teaching Assistant, Software Engineering & Artificial Intelligence** | ITU Lahore | Aug 2025 to Jun 2026
 
@@ -193,28 +226,26 @@ Supervised by Dr. Waqas Sultani, ITU Lahore.
 
 ### Current Focus
 
-```yaml
-Building:
-  - Production-ready computer vision and LLM systems
-  - Clean APIs and interfaces around trained models
-Learning:
-  - Advanced retrieval strategies for RAG systems
-  - Lightweight VLM architectures for edge deployment
-Improving:
-  - Evaluation and benchmarking of vision and language models
-```
+Areas I am building depth in, chosen from what AI engineering teams hire for most today.
+
+| Area | What I am working on |
+| --- | --- |
+| RAG Systems | Better retrieval quality, chunking, reranking and answer evaluation |
+| Agentic AI | Tool-using, multi-step LLM workflows that act reliably |
+| LLM Fine-tuning & Evaluation | Adapting open models to a task and measuring results properly |
+| MLOps & Deployment | Containerized serving, experiment tracking and monitoring in production |
+| Efficient VLMs | Lightweight vision-language models for edge deployment |
 
 ---
 
 ### Open To
 
-```yaml
-Roles:
-  - AI Engineer (computer vision, multimodal, LLM applications)
-  - Applied ML and full-stack AI product work
-Collaboration:
-  - Computer vision and multimodal research
-```
+| | |
+| --- | --- |
+| **Roles** | AI Engineer, Computer Vision Engineer, Applied ML and LLM Engineer |
+| **Work I enjoy** | Taking models from experiment to production, building RAG and multimodal products, full-stack AI features |
+| **Collaboration** | Computer vision and multimodal research, open source AI projects |
+| **Contact** | [harismajeed0501@gmail.com](mailto:harismajeed0501@gmail.com) |
 
 ---
 
