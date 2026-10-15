@@ -1,8 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:22D3EE&height=220&section=header&text=Haris%20Majeed%20Raja&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+Engineer+%7C+Computer+Vision%2C+Multimodal+AI+%26+LLM+Systems&descAlignY=58&descSize=18)
 
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:22D3EE&height=220&section=header&text=Haris%20Majeed%20Raja&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%2B%20Full-Stack%20Engineering&descAlignY=58&descSize=18)
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Vision+%7C+Detection%2C+Tracking%2C+Fine-tuning;LLM+Apps+%7C+RAG%2C+Retrieval%2C+Streaming+Chat;Multimodal+AI+%7C+VLMs%2C+Speech%2C+Deepfake+Detection;Model+to+API+to+UI+%7C+Shipped+End+to+End" alt="Typing SVG" />
 
