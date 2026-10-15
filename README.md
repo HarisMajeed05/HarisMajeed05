@@ -75,6 +75,23 @@ A document-grounded legal assistant. Users upload PDFs into projects, and every 
 - JWT auth, conversation memory, streaming replies, PDF chat export, optional OCR for scanned files
 - Runs without a GPU: LLM on Groq, small embedding model on CPU
 
+<details>
+<summary><b>Legal AI Chatbot</b></summary>
+<br/>
+
+Full-stack RAG-based legal assistant with project-scoped retrieval and source-cited answers.
+
+| | |
+| --- | --- |
+| **Stack** | React, FastAPI, MongoDB, LangChain, FAISS, Groq API |
+| **Scale** | Multi-project document retrieval |
+| **Performance** | Low-latency retrieval via FAISS vector search |
+| **Security** | Project-scoped access to prevent cross-document leakage |
+| **Impact** | Source-cited answers reduce hallucination risk in legal Q&A |
+| **Repository** | [github.com/HarisMajeed05/legal-ai-chatbot](https://github.com/HarisMajeed05/legal-ai-chatbot) |
+
+</details>
+
 **Skills shown:** RAG design, LLM integration, backend API design, full-stack delivery
 **Stack:** React, FastAPI, MongoDB, LangChain, FAISS, Groq
 [View repository](https://github.com/HarisMajeed05/legal-ai-chatbot)
