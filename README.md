@@ -21,58 +21,118 @@
 
 </div>
 
----
+<br/>
 
-### About
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%91%8B%20About%20Me&fontSize=26&fontColor=ffffff" width="100%" /></p>
 
 I build AI systems that go from raw data to a working product. At **MLBench** I deliver production computer vision solutions for multiple clients, covering data annotation, model training, evaluation and deployment. Outside of work, I have built RAG assistants, a multilingual voice and gesture interface, and a lightweight multimodal deepfake detector for my final year project at ITU Lahore.
 
 I like owning the full path: data, model, evaluation, API and UI. I also like building core systems from scratch (a compiler, a search engine, a kernel module) so I know exactly what I am trusting when I use a library.
 
-```yaml
-Focus:    Computer Vision, Multimodal AI, LLM Applications
-Strength: Taking a model from experiment to a usable product
-Stack:    Python, PyTorch, FastAPI, React
-```
+<table>
+  <tr>
+    <td align="center" width="33%">🎯<br/><b>Focus</b><br/><sub>Computer Vision, Multimodal AI, LLM Applications</sub></td>
+    <td align="center" width="33%">💪<br/><b>Strength</b><br/><sub>Taking a model from experiment to a usable product</sub></td>
+    <td align="center" width="33%">🧰<br/><b>Core Stack</b><br/><sub>Python, PyTorch, FastAPI, React</sub></td>
+  </tr>
+</table>
 
----
+<br/>
 
-### Tech Stack
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=26&fontColor=ffffff" width="100%" /></p>
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,html,css" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,numpy,pandas" />
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Backend, Frontend & Tools**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,express,mongodb,docker,git,linux,vscode" />
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
+<br/>
 
-### AI / ML Expertise
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%A7%A0%20AI%20%2F%20ML%20Expertise&fontSize=26&fontColor=ffffff" width="100%" /></p>
 
-| Area | What I do | Tools |
-| --- | --- | --- |
-| Computer Vision | Object detection, tracking, fine-tuning, image classification | YOLO, RF-DETR, DINOv2, ByteTrack, OpenCV, Cellpose-SAM |
-| LLM Apps & RAG | Document-grounded Q&A, source citations, streaming chat, per-project retrieval isolation, tool-using assistants | LangChain, FAISS, Groq, sentence-transformers |
-| Multimodal & VLMs | Image-text pipelines, explanation and verification of model outputs | CLIP, BLIP-2, LLaVA-Mini, Qwen-VL, HuggingFace Transformers |
-| Speech & Voice AI | Multilingual speech-to-text, streaming spoken replies, voice login | Whisper (Groq and faster-whisper) |
-| Evaluation & Benchmarking | Precision, recall and F1 comparisons, cross-dataset benchmarks, OCR backend comparisons | scikit-learn, Tesseract, DocTR |
-| Deployment | APIs and web apps around models, CPU-friendly and low-resource inference | FastAPI, Flask, React, MongoDB, JWT |
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <b>👁️ Computer Vision</b><br/>
+      Object detection, tracking, fine-tuning, image classification<br/><br/>
+      <sub><code>YOLO</code> <code>RF-DETR</code> <code>DINOv2</code> <code>ByteTrack</code> <code>OpenCV</code> <code>Cellpose-SAM</code></sub>
+    </td>
+    <td valign="top" width="33%">
+      <b>💬 LLM Apps & RAG</b><br/>
+      Document-grounded Q&A, source citations, streaming chat, per-project retrieval isolation, tool-using assistants<br/><br/>
+      <sub><code>LangChain</code> <code>FAISS</code> <code>Groq</code> <code>sentence-transformers</code></sub>
+    </td>
+    <td valign="top" width="33%">
+      <b>🖼️ Multimodal & VLMs</b><br/>
+      Image-text pipelines, explanation and verification of model outputs<br/><br/>
+      <sub><code>CLIP</code> <code>BLIP-2</code> <code>LLaVA-Mini</code> <code>Qwen-VL</code> <code>HF Transformers</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <b>🎙️ Speech & Voice AI</b><br/>
+      Multilingual speech-to-text, streaming spoken replies, voice login<br/><br/>
+      <sub><code>Whisper (Groq)</code> <code>faster-whisper</code></sub>
+    </td>
+    <td valign="top" width="33%">
+      <b>📊 Evaluation & Benchmarking</b><br/>
+      Precision, recall and F1 comparisons, cross-dataset benchmarks, OCR backend comparisons<br/><br/>
+      <sub><code>scikit-learn</code> <code>Tesseract</code> <code>DocTR</code></sub>
+    </td>
+    <td valign="top" width="33%">
+      <b>🚀 Deployment</b><br/>
+      APIs and web apps around models, CPU-friendly and low-resource inference<br/><br/>
+      <sub><code>FastAPI</code> <code>Flask</code> <code>React</code> <code>MongoDB</code> <code>JWT</code></sub>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### Featured Projects
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=26&fontColor=ffffff" width="100%" /></p>
 
-<details>
-<summary><b>Legal AI Chatbot</b></summary>
+<sub>Click a project to expand it.</sub>
+
+<details open>
+<summary><b>⚖️ Legal AI Chatbot</b> &nbsp;·&nbsp; RAG · FastAPI · React</summary>
 <br/>
 
 Full-stack RAG assistant where users upload PDFs into projects and get answers that cite their sources.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
 | | |
 | --- | --- |
@@ -87,10 +147,15 @@ Full-stack RAG assistant where users upload PDFs into projects and get answers t
 </details>
 
 <details>
-<summary><b>GestVox</b></summary>
+<summary><b>🖐️ GestVox</b> &nbsp;·&nbsp; Gesture Control · Voice AI · Multilingual</summary>
 <br/>
 
 Hands-free Windows control using hand gestures and a multilingual voice assistant.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
 | | |
 | --- | --- |
@@ -105,10 +170,14 @@ Hands-free Windows control using hand gestures and a multilingual voice assistan
 </details>
 
 <details>
-<summary><b>Footfall Counter</b></summary>
+<summary><b>🚶 Footfall Counter</b> &nbsp;·&nbsp; Detection · Tracking · CPU Only</summary>
 <br/>
 
 Real-time people counting system that runs entirely on CPU.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 | | |
 | --- | --- |
@@ -123,10 +192,15 @@ Real-time people counting system that runs entirely on CPU.
 </details>
 
 <details>
-<summary><b>Multimodal Deepfake Detection (Final Year Project)</b></summary>
+<summary><b>🎭 Multimodal Deepfake Detection</b> &nbsp;·&nbsp; Final Year Project · VLMs</summary>
 <br/>
 
 Three-stage detect, explain and judge pipeline (ExDDV-Judge) that replaces large VLMs with lightweight ones.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square)
+![BLIP-2](https://img.shields.io/badge/BLIP--2-0467DF?style=flat-square)
 
 | | |
 | --- | --- |
@@ -140,12 +214,13 @@ Three-stage detect, explain and judge pipeline (ExDDV-Judge) that replaces large
 
 </details>
 
-
 <details>
-<summary><b>C++ Compiler From Scratch</b></summary>
+<summary><b>🛠️ C++ Compiler From Scratch</b> &nbsp;·&nbsp; Parsing · Systems</summary>
 <br/>
 
 Toy compiler written in C++ to learn how compilers work from first principles.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 | | |
 | --- | --- |
@@ -158,10 +233,12 @@ Toy compiler written in C++ to learn how compilers work from first principles.
 </details>
 
 <details>
-<summary><b>Search Engine</b></summary>
+<summary><b>🔍 Search Engine</b> &nbsp;·&nbsp; Inverted Index · Retrieval</summary>
 <br/>
 
 Document search engine built from scratch in C++ using an inverted index.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 | | |
 | --- | --- |
@@ -173,41 +250,53 @@ Document search engine built from scratch in C++ using an inverted index.
 
 </details>
 
----
+<br/>
 
-### Experience
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%92%BC%20Experience&fontSize=26&fontColor=ffffff" width="100%" /></p>
 
-**AI Engineer** | MLBench Pvt Ltd | Jun 2026 to Present
+#### 🧠 AI Engineer &nbsp;|&nbsp; MLBench Pvt Ltd
+![Period](https://img.shields.io/badge/Jun_2026_to_Present-7C3AED?style=flat-square)
 
-- Deliver computer vision solutions for multiple client projects, from problem scoping to a working, deployed system
-- Fine-tune and benchmark detection and classification models (RF-DETR, DINOv2) and pick the best one using measured metrics, not guesswork
-- Build training datasets by annotating client data, and track experiments to guide model and tool choices
-- Evaluate alternative models and tools such as OCR engines before they go into a pipeline
-- Apply VLMs to multimodal and visual inspection problems
-- Work across the full stack, from model to API to frontend, so results reach users in a usable form
+- 🎯 Deliver computer vision solutions for multiple client projects, from problem scoping to a working, deployed system
+- 🔬 Fine-tune and benchmark detection and classification models (RF-DETR, DINOv2) and pick the best one using measured metrics, not guesswork
+- 🏷️ Build training datasets by annotating client data, and track experiments to guide model and tool choices
+- ⚖️ Evaluate alternative models and tools such as OCR engines before they go into a pipeline
+- 🖼️ Apply VLMs to multimodal and visual inspection problems
+- 🔗 Work across the full stack, from model to API to frontend, so results reach users in a usable form
 
 `Computer Vision` `RF-DETR` `DINOv2` `VLMs` `OCR` `PyTorch` `FastAPI`
 
-**Teaching Assistant, Software Engineering & Artificial Intelligence** | ITU Lahore | Aug 2025 to Jun 2026
+<br/>
 
-- Taught and supported system design, version control, testing, search algorithms and machine learning basics
-- Guided student projects on model selection, experiment design and evaluation, and reviewed code in Python, scikit-learn and PyTorch
+#### 🎓 Teaching Assistant, Software Engineering & Artificial Intelligence &nbsp;|&nbsp; ITU Lahore
+![Period](https://img.shields.io/badge/Aug_2025_to_Jun_2026-6D28D9?style=flat-square)
 
-**Earlier internships**
+- 📚 Taught and supported system design, version control, testing, search algorithms and machine learning basics
+- 👥 Guided student projects on model selection, experiment design and evaluation, and reviewed code in Python, scikit-learn and PyTorch
 
-- Machine Learning Intern, Arch Technologies (Jun 2025 to Aug 2025): spam detection, house price prediction, digit and iris classification
-- Front-End Intern, Certura (Jul 2025 to Aug 2025): responsive portfolio site and a weather dashboard using the OpenWeather API
-- Salesforce Admin Intern, Incredibles (Jun 2024 to Sep 2024): data modeling, reports, dashboards and flows
+<br/>
 
----
+#### 🌱 Earlier Internships
 
-### Education
+| Role | Company | Period | Work |
+| --- | --- | --- | --- |
+| Machine Learning Intern | Arch Technologies | Jun 2025 to Aug 2025 | Spam detection, house price prediction, digit and iris classification |
+| Front-End Intern | Certura | Jul 2025 to Aug 2025 | Responsive portfolio site and a weather dashboard using the OpenWeather API |
+| Salesforce Admin Intern | Incredibles | Jun 2024 to Sep 2024 | Data modeling, reports, dashboards and flows |
 
-**BS Computer Science**, Information Technology University, Lahore | Aug 2022 to Jun 2026 | CGPA 3.28/4.0
+<br/>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%8E%93%20Education&fontSize=26&fontColor=ffffff" width="100%" /></p>
 
-### GitHub Activity
+<table>
+  <tr>
+    <td align="center">🏛️<br/><b>BS Computer Science</b><br/>Information Technology University, Lahore<br/><sub>Aug 2022 to Jun 2026 &nbsp;|&nbsp; CGPA 3.28/4.0</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%93%8A%20GitHub%20Activity&fontSize=26&fontColor=ffffff" width="100%" /></p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisMajeed05&theme=github_dark" />
@@ -222,34 +311,40 @@ Document search engine built from scratch in C++ using an inverted index.
   <img src="https://raw.githubusercontent.com/HarisMajeed05/HarisMajeed05/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+<br/>
 
-### Current Focus
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%94%AD%20Current%20Focus&fontSize=26&fontColor=ffffff" width="100%" /></p>
 
-Areas I am building depth in, chosen from what AI engineering teams hire for most today.
+<p align="center"><sub>Areas I am building depth in, chosen from what AI engineering teams hire for most today.</sub></p>
 
-| Area | What I am working on |
-| --- | --- |
-| RAG Systems | Better retrieval quality, chunking, reranking and answer evaluation |
-| Agentic AI | Tool-using, multi-step LLM workflows that act reliably |
-| LLM Fine-tuning & Evaluation | Adapting open models to a task and measuring results properly |
-| MLOps & Deployment | Containerized serving, experiment tracking and monitoring in production |
-| Efficient VLMs | Lightweight vision-language models for edge deployment |
+<table>
+  <tr>
+    <td valign="top" width="33%"><b>🔎 RAG Systems</b><br/><sub>Better retrieval quality, chunking, reranking and answer evaluation</sub></td>
+    <td valign="top" width="33%"><b>🤖 Agentic AI</b><br/><sub>Tool-using, multi-step LLM workflows that act reliably</sub></td>
+    <td valign="top" width="33%"><b>🎛️ LLM Fine-tuning & Evaluation</b><br/><sub>Adapting open models to a task and measuring results properly</sub></td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%"><b>📦 MLOps & Deployment</b><br/><sub>Containerized serving, experiment tracking and monitoring in production</sub></td>
+    <td valign="top" width="33%"><b>⚡ Efficient VLMs</b><br/><sub>Lightweight vision-language models for edge deployment</sub></td>
+    <td valign="top" width="33%"></td>
+  </tr>
+</table>
 
----
+<br/>
 
-### Open To
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%A4%9D%20Open%20To&fontSize=26&fontColor=ffffff" width="100%" /></p>
 
-| | |
-| --- | --- |
-| **Roles** | AI Engineer, Computer Vision Engineer, Applied ML and LLM Engineer |
-| **Work I enjoy** | Taking models from experiment to production, building RAG and multimodal products, full-stack AI features |
-| **Collaboration** | Computer vision and multimodal research, open source AI projects |
-| **Contact** | [harismajeed0501@gmail.com](mailto:harismajeed0501@gmail.com) |
+> [!TIP]
+> **Open to new opportunities and collaborations**
+>
+> - 🎯 **Roles:** AI Engineer, Computer Vision Engineer, Applied ML and LLM Engineer
+> - 🛠️ **Work I enjoy:** Taking models from experiment to production, building RAG and multimodal products, full-stack AI features
+> - 🔬 **Collaboration:** Computer vision and multimodal research, open source AI projects
+> - 📬 **Contact:** [harismajeed0501@gmail.com](mailto:harismajeed0501@gmail.com)
 
----
+<br/>
 
-### Connect
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%93%AC%20Connect&fontSize=26&fontColor=ffffff" width="100%" /></p>
 
 <p align="center">
   <a href="https://harismajeed05.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
