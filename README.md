@@ -1,29 +1,29 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:22D3EE&height=220&section=header&text=Haris%20Majeed%20Raja&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%2B%20Full-Stack%20Engineering&descAlignY=58&descSize=18)
+<a>![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:22D3EE&height=220&section=header&text=Haris%20Majeed%20Raja&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%2B%20Full-Stack%20Engineering&descAlignY=58&descSize=18)</a>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Vision+%7C+Detection%2C+Tracking%2C+Fine-tuning;LLM+Apps+%7C+RAG%2C+Retrieval%2C+Streaming+Chat;Multimodal+AI+%7C+VLMs%2C+Speech%2C+Deepfake+Detection;Model+to+API+to+UI+%7C+Shipped+End+to+End" alt="Typing SVG" />
+<a><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Vision+%7C+Detection%2C+Tracking%2C+Fine-tuning;LLM+Apps+%7C+RAG%2C+Retrieval%2C+Streaming+Chat;Multimodal+AI+%7C+VLMs%2C+Speech%2C+Deepfake+Detection;Model+to+API+to+UI+%7C+Shipped+End+to+End" alt="Typing SVG" /></a>
 
 <br/>
 
-![BS Computer Science](https://img.shields.io/badge/BS_Computer_Science-ITU_Lahore-6D28D9?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Lahore,_Pakistan-22D3EE?style=flat-square)
-![Role](https://img.shields.io/badge/AI_Engineer-MLBench-7C3AED?style=flat-square)
+<a>![BS Computer Science](https://img.shields.io/badge/BS_Computer_Science-ITU_Lahore-6D28D9?style=flat-square)</a>
+<a>![Location](https://img.shields.io/badge/Location-Lahore,_Pakistan-22D3EE?style=flat-square)</a>
+<a>![Role](https://img.shields.io/badge/AI_Engineer-MLBench-7C3AED?style=flat-square)</a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://harismajeed05.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-majeed-raja/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harismajeed0501@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1E1bMbfKWI_SpXBcua9QnBs4r42S5bjsu/view?usp=sharing)
 
-![Profile Views](https://komarev.com/ghpvc/?username=HarisMajeed05&color=7C3AED&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/HarisMajeed05?style=flat-square&color=6D28D9&label=Followers)
-![Stars](https://img.shields.io/github/stars/HarisMajeed05?style=flat-square&color=22D3EE&label=Stars)
+<a>![Profile Views](https://komarev.com/ghpvc/?username=HarisMajeed05&color=7C3AED&style=flat-square&label=Profile+Views)</a>
+<a>![Followers](https://img.shields.io/github/followers/HarisMajeed05?style=flat-square&color=6D28D9&label=Followers)</a>
+<a>![Stars](https://img.shields.io/github/stars/HarisMajeed05?style=flat-square&color=22D3EE&label=Stars)</a>
 
 </div>
 
 <br/>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%91%8B%20About%20Me&fontSize=26&fontColor=ffffff" width="100%" /></p>
+<p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%91%8B%20About%20Me&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
 I build AI systems that go from raw data to a working product. At **MLBench** I deliver production computer vision solutions for multiple clients, covering data annotation, model training, evaluation and deployment. Outside of work, I have built RAG assistants, a multilingual voice and gesture interface, and a lightweight multimodal deepfake detector for my final year project at ITU Lahore.
 
@@ -39,44 +39,44 @@ I like owning the full path: data, model, evaluation, API and UI. I also like bu
 
 <br/>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=26&fontColor=ffffff" width="100%" /></p>
+<p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<a>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</a>
+<a>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)</a>
+<a>![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)</a>
+<a>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)</a>
+<a>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)</a>
+<a>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)</a>
+<a>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)</a>
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<a>![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)</a>
+<a>![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)</a>
+<a>![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)</a>
+<a>![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)</a>
+<a>![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)</a>
+<a>![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)</a>
+<a>![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)</a>
 
 **Backend, Frontend & Tools**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<a>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)</a>
+<a>![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)</a>
+<a>![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)</a>
+<a>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)</a>
+<a>![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)</a>
+<a>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)</a>
+<a>![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)</a>
+<a>![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)</a>
+<a>![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)</a>
+<a>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)</a>
 
 <br/>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%A7%A0%20AI%20%2F%20ML%20Expertise&fontSize=26&fontColor=ffffff" width="100%" /></p>
+<p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%A7%A0%20AI%20%2F%20ML%20Expertise&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
 <table>
   <tr>
@@ -117,7 +117,7 @@ I like owning the full path: data, model, evaluation, API and UI. I also like bu
 
 <br/>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=26&fontColor=ffffff" width="100%" /></p>
+<p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
 <sub>Click a project to expand it.</sub>
 
@@ -127,12 +127,12 @@ I like owning the full path: data, model, evaluation, API and UI. I also like bu
 
 Full-stack RAG assistant where users upload PDFs into projects and get answers that cite their sources.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+<a>![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)</a>
+<a>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)</a>
+<a>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)</a>
+<a>![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)</a>
+<a>![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)</a>
+<a>![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)</a>
 
 | | |
 | --- | --- |
@@ -152,10 +152,10 @@ Full-stack RAG assistant where users upload PDFs into projects and get answers t
 
 Hands-free Windows control using hand gestures and a multilingual voice assistant.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+<a>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</a>
+<a>![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)</a>
+<a>![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)</a>
+<a>![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)</a>
 
 | | |
 | --- | --- |
@@ -175,9 +175,9 @@ Hands-free Windows control using hand gestures and a multilingual voice assistan
 
 Real-time people counting system that runs entirely on CPU.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<a>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</a>
+<a>![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)</a>
+<a>![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)</a>
 
 | | |
 | --- | --- |
@@ -197,10 +197,10 @@ Real-time people counting system that runs entirely on CPU.
 
 Three-stage detect, explain and judge pipeline (ExDDV-Judge) that replaces large VLMs with lightweight ones.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square)
-![BLIP-2](https://img.shields.io/badge/BLIP--2-0467DF?style=flat-square)
+<a>![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)</a>
+<a>![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)</a>
+<a>![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square)</a>
+<a>![BLIP-2](https://img.shields.io/badge/BLIP--2-0467DF?style=flat-square)</a>
 
 | | |
 | --- | --- |
@@ -220,7 +220,7 @@ Three-stage detect, explain and judge pipeline (ExDDV-Judge) that replaces large
 
 Toy compiler written in C++ to learn how compilers work from first principles.
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<a>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)</a>
 
 | | |
 | --- | --- |
@@ -238,7 +238,7 @@ Toy compiler written in C++ to learn how compilers work from first principles.
 
 Document search engine built from scratch in C++ using an inverted index.
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<a>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)</a>
 
 | | |
 | --- | --- |
@@ -252,10 +252,10 @@ Document search engine built from scratch in C++ using an inverted index.
 
 <br/>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%92%BC%20Experience&fontSize=26&fontColor=ffffff" width="100%" /></p>
+<p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%92%BC%20Experience&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
 #### 🧠 AI Engineer &nbsp;|&nbsp; MLBench Pvt Ltd
-![Period](https://img.shields.io/badge/Jun_2026_to_Present-7C3AED?style=flat-square)
+<a>![Period](https://img.shields.io/badge/Jun_2026_to_Present-7C3AED?style=flat-square)</a>
 
 - 🎯 Deliver computer vision solutions for multiple client projects, from problem scoping to a working, deployed system
 - 🔬 Fine-tune and benchmark detection and classification models (RF-DETR, DINOv2) and pick the best one using measured metrics, not guesswork
@@ -269,7 +269,7 @@ Document search engine built from scratch in C++ using an inverted index.
 <br/>
 
 #### 🎓 Teaching Assistant, Software Engineering & Artificial Intelligence &nbsp;|&nbsp; ITU Lahore
-![Period](https://img.shields.io/badge/Aug_2025_to_Jun_2026-6D28D9?style=flat-square)
+<a>![Period](https://img.shields.io/badge/Aug_2025_to_Jun_2026-6D28D9?style=flat-square)</a>
 
 - 📚 Taught and supported system design, version control, testing, search algorithms and machine learning basics
 - 👥 Guided student projects on model selection, experiment design and evaluation, and reviewed code in Python, scikit-learn and PyTorch
@@ -286,7 +286,7 @@ Document search engine built from scratch in C++ using an inverted index.
 
 <br/>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%8E%93%20Education&fontSize=26&fontColor=ffffff" width="100%" /></p>
+<p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%8E%93%20Education&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
 <table>
   <tr>
@@ -296,24 +296,24 @@ Document search engine built from scratch in C++ using an inverted index.
 
 <br/>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%93%8A%20GitHub%20Activity&fontSize=26&fontColor=ffffff" width="100%" /></p>
+<p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%93%8A%20GitHub%20Activity&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisMajeed05&theme=github_dark" />
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisMajeed05&theme=github_dark" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarisMajeed05&theme=github_dark" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarisMajeed05&theme=github_dark&utcOffset=5" height="200"/>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarisMajeed05&theme=github_dark" height="200"/></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarisMajeed05&theme=github_dark&utcOffset=5" height="200"/></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarisMajeed05/HarisMajeed05/output/github-contribution-grid-snake-dark.svg" />
+  <a><img src="https://raw.githubusercontent.com/HarisMajeed05/HarisMajeed05/output/github-contribution-grid-snake-dark.svg" /></a>
 </p>
 
 <br/>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%94%AD%20Current%20Focus&fontSize=26&fontColor=ffffff" width="100%" /></p>
+<p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%94%AD%20Current%20Focus&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
 <p align="center"><sub>Areas I am building depth in, chosen from what AI engineering teams hire for most today.</sub></p>
 
@@ -332,7 +332,7 @@ Document search engine built from scratch in C++ using an inverted index.
 
 <br/>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%A4%9D%20Open%20To&fontSize=26&fontColor=ffffff" width="100%" /></p>
+<p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%A4%9D%20Open%20To&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
 > [!TIP]
 > **Open to new opportunities and collaborations**
@@ -344,7 +344,7 @@ Document search engine built from scratch in C++ using an inverted index.
 
 <br/>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%93%AC%20Connect&fontSize=26&fontColor=ffffff" width="100%" /></p>
+<p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%93%AC%20Connect&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
 <p align="center">
   <a href="https://harismajeed05.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -357,4 +357,4 @@ Document search engine built from scratch in C++ using an inverted index.
 <i>"Build the thing from scratch once, so you know exactly what you're trusting when you don't."</i>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:6D28D9&height=120&section=footer)
+<a>![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:6D28D9&height=120&section=footer)</a>
