@@ -31,9 +31,9 @@ I like owning the full path: data, model, evaluation, API and UI. I also like bu
 
 <table>
   <tr>
-    <td align="center" width="33%">🎯<br/><b>Focus</b><br/><sub>Computer Vision, Multimodal AI, LLM Applications</sub></td>
-    <td align="center" width="33%">💪<br/><b>Strength</b><br/><sub>Taking a model from experiment to a usable product</sub></td>
-    <td align="center" width="33%">🧰<br/><b>Core Stack</b><br/><sub>Python, PyTorch, FastAPI, React</sub></td>
+    <td align="center" width="33%"><a><img align="left" src="https://capsule-render.vercel.app/api?type=transparent&height=1" width="1400" height="1"/></a><b>Focus</b><br/>Computer Vision, Multimodal AI, LLM Applications</td>
+    <td align="center" width="33%"><b>Strength</b><br/>Taking a model from experiment to a usable product</td>
+    <td align="center" width="33%"><b>Core Stack</b><br/>Python, PyTorch, FastAPI, React</td>
   </tr>
 </table>
 
@@ -43,7 +43,7 @@ I like owning the full path: data, model, evaluation, API and UI. I also like bu
 
 
 <details>
-<summary><b>🧰 View full tech stack</b></summary>
+<summary><b>View full tech stack</b></summary>
 <br/>
 
 **Languages**
@@ -88,36 +88,36 @@ I like owning the full path: data, model, evaluation, API and UI. I also like bu
 <table>
   <tr>
     <td valign="top" width="33%">
-      <b>👁️ Computer Vision</b><br/>
+      <b>Computer Vision</b><br/>
       Object detection, tracking, fine-tuning, image classification<br/><br/>
-      <sub><code>YOLO</code> <code>RF-DETR</code> <code>DINOv2</code> <code>ByteTrack</code> <code>OpenCV</code> <code>Cellpose-SAM</code></sub>
+      <code>YOLO</code> <code>RF-DETR</code> <code>DINOv2</code> <code>ByteTrack</code> <code>OpenCV</code> <code>Cellpose-SAM</code>
     </td>
     <td valign="top" width="33%">
-      <b>💬 LLM Apps & RAG</b><br/>
+      <b>LLM Apps & RAG</b><br/>
       Document-grounded Q&A, source citations, streaming chat, per-project retrieval isolation, tool-using assistants<br/><br/>
-      <sub><code>LangChain</code> <code>FAISS</code> <code>Groq</code> <code>sentence-transformers</code></sub>
+      <code>LangChain</code> <code>FAISS</code> <code>Groq</code> <code>sentence-transformers</code>
     </td>
     <td valign="top" width="33%">
-      <b>🖼️ Multimodal & VLMs</b><br/>
+      <b>Multimodal & VLMs</b><br/>
       Image-text pipelines, explanation and verification of model outputs<br/><br/>
-      <sub><code>CLIP</code> <code>BLIP-2</code> <code>LLaVA-Mini</code> <code>Qwen-VL</code> <code>HF Transformers</code></sub>
+      <code>CLIP</code> <code>BLIP-2</code> <code>LLaVA-Mini</code> <code>Qwen-VL</code> <code>HF Transformers</code>
     </td>
   </tr>
   <tr>
     <td valign="top" width="33%">
-      <b>🎙️ Speech & Voice AI</b><br/>
+      <b>Speech & Voice AI</b><br/>
       Multilingual speech-to-text, streaming spoken replies, voice login<br/><br/>
-      <sub><code>Whisper (Groq)</code> <code>faster-whisper</code></sub>
+      <code>Whisper (Groq)</code> <code>faster-whisper</code>
     </td>
     <td valign="top" width="33%">
-      <b>📊 Evaluation & Benchmarking</b><br/>
+      <b>Evaluation & Benchmarking</b><br/>
       Precision, recall and F1 comparisons, cross-dataset benchmarks, OCR backend comparisons<br/><br/>
-      <sub><code>scikit-learn</code> <code>Tesseract</code> <code>DocTR</code></sub>
+      <code>scikit-learn</code> <code>Tesseract</code> <code>DocTR</code>
     </td>
     <td valign="top" width="33%">
-      <b>🚀 Deployment</b><br/>
+      <b>Deployment</b><br/>
       APIs and web apps around models, CPU-friendly and low-resource inference<br/><br/>
-      <sub><code>FastAPI</code> <code>Flask</code> <code>React</code> <code>MongoDB</code> <code>JWT</code></sub>
+      <code>FastAPI</code> <code>Flask</code> <code>React</code> <code>MongoDB</code> <code>JWT</code>
     </td>
   </tr>
 </table>
@@ -126,10 +126,8 @@ I like owning the full path: data, model, evaluation, API and UI. I also like bu
 
 <p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
-<sub>Click a project to expand it.</sub>
-
 <details open>
-<summary><b>⚖️ Legal AI Chatbot</b> &nbsp;·&nbsp; RAG · FastAPI · React</summary>
+<summary><b>Legal AI Chatbot</b> &nbsp;·&nbsp; RAG · FastAPI · React</summary>
 <br/>
 
 Full-stack RAG assistant where users upload PDFs into projects and get answers that cite their sources.
@@ -154,7 +152,7 @@ Full-stack RAG assistant where users upload PDFs into projects and get answers t
 </details>
 
 <details>
-<summary><b>🖐️ GestVox</b> &nbsp;·&nbsp; Gesture Control · Voice AI · Multilingual</summary>
+<summary><b>GestVox</b> &nbsp;·&nbsp; Gesture Control · Voice AI · Multilingual</summary>
 <br/>
 
 Hands-free Windows control using hand gestures and a multilingual voice assistant.
@@ -177,7 +175,7 @@ Hands-free Windows control using hand gestures and a multilingual voice assistan
 </details>
 
 <details>
-<summary><b>🚶 Footfall Counter</b> &nbsp;·&nbsp; Detection · Tracking · CPU Only</summary>
+<summary><b>Footfall Counter</b> &nbsp;·&nbsp; Detection · Tracking · CPU Only</summary>
 <br/>
 
 Real-time people counting system that runs entirely on CPU.
@@ -199,7 +197,7 @@ Real-time people counting system that runs entirely on CPU.
 </details>
 
 <details>
-<summary><b>🎭 Multimodal Deepfake Detection</b> &nbsp;·&nbsp; Final Year Project · VLMs</summary>
+<summary><b>Multimodal Deepfake Detection</b> &nbsp;·&nbsp; Final Year Project · VLMs</summary>
 <br/>
 
 Three-stage detect, explain and judge pipeline (ExDDV-Judge) that replaces large VLMs with lightweight ones.
@@ -222,7 +220,7 @@ Three-stage detect, explain and judge pipeline (ExDDV-Judge) that replaces large
 </details>
 
 <details>
-<summary><b>🛠️ C++ Compiler From Scratch</b> &nbsp;·&nbsp; Parsing · Systems</summary>
+<summary><b>C++ Compiler From Scratch</b> &nbsp;·&nbsp; Parsing · Systems</summary>
 <br/>
 
 Toy compiler written in C++ to learn how compilers work from first principles.
@@ -240,7 +238,7 @@ Toy compiler written in C++ to learn how compilers work from first principles.
 </details>
 
 <details>
-<summary><b>🔍 Search Engine</b> &nbsp;·&nbsp; Inverted Index · Retrieval</summary>
+<summary><b>Search Engine</b> &nbsp;·&nbsp; Inverted Index · Retrieval</summary>
 <br/>
 
 Document search engine built from scratch in C++ using an inverted index.
@@ -261,30 +259,28 @@ Document search engine built from scratch in C++ using an inverted index.
 
 <p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%92%BC%20Experience&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
-#### 🧠 AI Engineer &nbsp;|&nbsp; MLBench Pvt Ltd
-<a>![Period](https://img.shields.io/badge/Jun_2026_to_Present-7C3AED?style=flat-square)</a>
+#### <a><img align="right" src="https://img.shields.io/badge/Jun_2026_to_Present-7C3AED?style=for-the-badge" alt="Period"/></a> AI Engineer &nbsp;|&nbsp; MLBench Pvt Ltd
 
-- 🎯 Deliver computer vision solutions for multiple client projects, from problem scoping to a working, deployed system
-- 🔬 Fine-tune and benchmark detection and classification models (RF-DETR, DINOv2) and pick the best one using measured metrics, not guesswork
-- 🏷️ Build training datasets by annotating client data, and track experiments to guide model and tool choices
-- ⚖️ Evaluate alternative models and tools such as OCR engines before they go into a pipeline
-- 🖼️ Apply VLMs to multimodal and visual inspection problems
-- 🔗 Work across the full stack, from model to API to frontend, so results reach users in a usable form
+- Deliver computer vision solutions for multiple client projects, from problem scoping to a working, deployed system
+- Fine-tune and benchmark detection and classification models (RF-DETR, DINOv2) and pick the best one using measured metrics, not guesswork
+- Build training datasets by annotating client data, and track experiments to guide model and tool choices
+- Evaluate alternative models and tools such as OCR engines before they go into a pipeline
+- Apply VLMs to multimodal and visual inspection problems
+- Work across the full stack, from model to API to frontend, so results reach users in a usable form
 
 `Computer Vision` `RF-DETR` `DINOv2` `VLMs` `OCR` `PyTorch` `FastAPI`
 
 <br/>
 
-#### 🎓 Teaching Assistant, Software Engineering & Artificial Intelligence &nbsp;|&nbsp; ITU Lahore
-<a>![Period](https://img.shields.io/badge/Aug_2025_to_Jun_2026-6D28D9?style=flat-square)</a>
+#### <a><img align="right" src="https://img.shields.io/badge/Aug_2025_to_Jun_2026-6D28D9?style=for-the-badge" alt="Period"/></a> Teaching Assistant, Software Engineering & Artificial Intelligence &nbsp;|&nbsp; ITU Lahore
 
-- 📚 Taught and supported system design, version control, testing, search algorithms and machine learning basics
-- 👥 Guided student projects on model selection, experiment design and evaluation, and reviewed code in Python, scikit-learn and PyTorch
+- Taught and supported system design, version control, testing, search algorithms and machine learning basics
+- Guided student projects on model selection, experiment design and evaluation, and reviewed code in Python, scikit-learn and PyTorch
 
 <br/>
 
 <details>
-<summary><b>🌱 Earlier internships</b></summary>
+<summary><b>Earlier internships</b></summary>
 <br/>
 
 | Role | Company | Period | Work |
@@ -301,7 +297,7 @@ Document search engine built from scratch in C++ using an inverted index.
 
 <table width="100%">
   <tr>
-    <td align="center" width="100%">🏛️<br/><b>BS Computer Science</b><br/>Information Technology University, Lahore<br/><sub>Aug 2022 to Jun 2026 &nbsp;|&nbsp; CGPA 3.28/4.0</sub></td>
+    <td align="center" width="100%"><a><img align="left" src="https://capsule-render.vercel.app/api?type=transparent&height=1" width="1400" height="1"/></a><b>BS Computer Science</b><br/>Information Technology University, Lahore<br/>Aug 2022 to Jun 2026 &nbsp;|&nbsp; CGPA 3.28/4.0</td>
   </tr>
 </table>
 
@@ -311,13 +307,13 @@ Document search engine built from scratch in C++ using an inverted index.
 
 
 <details>
-<summary><b>📈 View GitHub stats</b></summary>
+<summary><b>View GitHub stats</b></summary>
 <br/>
 
 <p align="center">
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisMajeed05&theme=github_dark" width="40%"/></a>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarisMajeed05&theme=github_dark" width="28%"/></a>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarisMajeed05&theme=github_dark&utcOffset=5" width="28%"/></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisMajeed05&theme=github_dark" width="32%"/></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarisMajeed05&theme=github_dark" width="32%"/></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarisMajeed05&theme=github_dark&utcOffset=5" width="32%"/></a>
 </p>
 
 <p align="center"><a><img src="https://raw.githubusercontent.com/HarisMajeed05/HarisMajeed05/output/github-contribution-grid-snake-dark.svg" /></a></p>
@@ -330,21 +326,20 @@ Document search engine built from scratch in C++ using an inverted index.
 
 
 <details>
-<summary><b>🔭 View current focus areas</b></summary>
+<summary><b>View current focus areas</b></summary>
 <br/>
 
-<p align="center"><sub>Areas I am building depth in, chosen from what AI engineering teams hire for most today.</sub></p>
+<p align="center">Areas I am building depth in, chosen from what AI engineering teams hire for most today.</p>
 
 <table>
   <tr>
-    <td valign="top" width="33%"><b>🔎 RAG Systems</b><br/><sub>Better retrieval quality, chunking, reranking and answer evaluation</sub></td>
-    <td valign="top" width="33%"><b>🤖 Agentic AI</b><br/><sub>Tool-using, multi-step LLM workflows that act reliably</sub></td>
-    <td valign="top" width="33%"><b>🎛️ LLM Fine-tuning & Evaluation</b><br/><sub>Adapting open models to a task and measuring results properly</sub></td>
+    <td valign="top" width="33%"><b>RAG Systems</b><br/>Better retrieval quality, chunking, reranking and answer evaluation</td>
+    <td valign="top" width="33%"><b>Agentic AI</b><br/>Tool-using, multi-step LLM workflows that act reliably</td>
+    <td valign="top" width="33%"><b>LLM Fine-tuning & Evaluation</b><br/>Adapting open models to a task and measuring results properly</td>
   </tr>
   <tr>
-    <td valign="top" width="33%"><b>📦 MLOps & Deployment</b><br/><sub>Containerized serving, experiment tracking and monitoring in production</sub></td>
-    <td valign="top" width="33%"><b>⚡ Efficient VLMs</b><br/><sub>Lightweight vision-language models for edge deployment</sub></td>
-    <td valign="top" width="33%"></td>
+    <td valign="top" width="33%"><b>MLOps & Deployment</b><br/>Containerized serving, experiment tracking and monitoring in production</td>
+    <td valign="top" colspan="2"><b>Efficient VLMs</b><br/>Lightweight vision-language models for edge deployment</td>
   </tr>
 </table>
 
@@ -354,13 +349,12 @@ Document search engine built from scratch in C++ using an inverted index.
 
 <p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%A4%9D%20Open%20To&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
-> [!TIP]
 > **Open to new opportunities and collaborations**
 >
-> - 🎯 **Roles:** AI Engineer, Computer Vision Engineer, Applied ML and LLM Engineer
-> - 🛠️ **Work I enjoy:** Taking models from experiment to production, building RAG and multimodal products, full-stack AI features
-> - 🔬 **Collaboration:** Computer vision and multimodal research, open source AI projects
-> - 📬 **Contact:** [harismajeed0501@gmail.com](mailto:harismajeed0501@gmail.com)
+> - **Roles:** AI Engineer, Computer Vision Engineer, Applied ML and LLM Engineer
+> - **Work I enjoy:** Taking models from experiment to production, building RAG and multimodal products, full-stack AI features
+> - **Collaboration:** Computer vision and multimodal research, open source AI projects
+> - **Contact:** [harismajeed0501@gmail.com](mailto:harismajeed0501@gmail.com)
 
 <br/>
 
