@@ -41,6 +41,11 @@ I like owning the full path: data, model, evaluation, API and UI. I also like bu
 
 <p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
+
+<details>
+<summary><b>🧰 View full tech stack</b></summary>
+<br/>
+
 **Languages**
 
 <a>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</a>
@@ -73,6 +78,8 @@ I like owning the full path: data, model, evaluation, API and UI. I also like bu
 <a>![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)</a>
 <a>![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)</a>
 <a>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)</a>
+
+</details>
 
 <br/>
 
@@ -276,7 +283,9 @@ Document search engine built from scratch in C++ using an inverted index.
 
 <br/>
 
-#### 🌱 Earlier Internships
+<details>
+<summary><b>🌱 Earlier internships</b></summary>
+<br/>
 
 | Role | Company | Period | Work |
 | --- | --- | --- | --- |
@@ -284,13 +293,15 @@ Document search engine built from scratch in C++ using an inverted index.
 | Front-End Intern | Certura | Jul 2025 to Aug 2025 | Responsive portfolio site and a weather dashboard using the OpenWeather API |
 | Salesforce Admin Intern | Incredibles | Jun 2024 to Sep 2024 | Data modeling, reports, dashboards and flows |
 
+</details>
+
 <br/>
 
 <p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%8E%93%20Education&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center">🏛️<br/><b>BS Computer Science</b><br/>Information Technology University, Lahore<br/><sub>Aug 2022 to Jun 2026 &nbsp;|&nbsp; CGPA 3.28/4.0</sub></td>
+    <td align="center" width="100%">🏛️<br/><b>BS Computer Science</b><br/>Information Technology University, Lahore<br/><sub>Aug 2022 to Jun 2026 &nbsp;|&nbsp; CGPA 3.28/4.0</sub></td>
   </tr>
 </table>
 
@@ -298,22 +309,29 @@ Document search engine built from scratch in C++ using an inverted index.
 
 <p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%93%8A%20GitHub%20Activity&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
 
-<p align="center">
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisMajeed05&theme=github_dark" /></a>
-</p>
+
+<details>
+<summary><b>📈 View GitHub stats</b></summary>
+<br/>
 
 <p align="center">
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarisMajeed05&theme=github_dark" height="200"/></a>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarisMajeed05&theme=github_dark&utcOffset=5" height="200"/></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisMajeed05&theme=github_dark" width="40%"/></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarisMajeed05&theme=github_dark" width="28%"/></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarisMajeed05&theme=github_dark&utcOffset=5" width="28%"/></a>
 </p>
 
-<p align="center">
-  <a><img src="https://raw.githubusercontent.com/HarisMajeed05/HarisMajeed05/output/github-contribution-grid-snake-dark.svg" /></a>
-</p>
+<p align="center"><a><img src="https://raw.githubusercontent.com/HarisMajeed05/HarisMajeed05/output/github-contribution-grid-snake-dark.svg" /></a></p>
+
+</details>
 
 <br/>
 
 <p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%94%AD%20Current%20Focus&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
+
+
+<details>
+<summary><b>🔭 View current focus areas</b></summary>
+<br/>
 
 <p align="center"><sub>Areas I am building depth in, chosen from what AI engineering teams hire for most today.</sub></p>
 
@@ -329,6 +347,8 @@ Document search engine built from scratch in C++ using an inverted index.
     <td valign="top" width="33%"></td>
   </tr>
 </table>
+
+</details>
 
 <br/>
 
