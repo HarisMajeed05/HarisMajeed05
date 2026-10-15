@@ -1,18 +1,19 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:22D3EE&height=220&section=header&text=Haris%20Majeed%20Raja&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%2B%20Full-Stack%20Engineering&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:22D3EE&height=220&section=header&text=Haris+Majeed+Raja&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+Engineer+%7C+Computer+Vision%2C+Multimodal+AI+%26+LLM+Systems&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Vision+%7C+RF-DETR+%2B+DINOv2+Pipelines;RAG+Systems+%7C+LangChain+%2B+FAISS+%2B+Groq;Multimodal+Deepfake+Detection+with+VLMs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Vision+%7C+Detection%2C+Tracking%2C+Fine-tuning;LLM+Apps+%7C+RAG%2C+Retrieval%2C+Streaming+Chat;Multimodal+AI+%7C+VLMs%2C+Speech%2C+Deepfake+Detection;Model+to+API+to+UI+%7C+Shipped+End+to+End" alt="Typing SVG" />
 
 <br/>
 
 ![BS Computer Science](https://img.shields.io/badge/BS_Computer_Science-ITU_Lahore-6D28D9?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Lahore,_Pakistan-22D3EE?style=flat-square)
+![Role](https://img.shields.io/badge/AI_Engineer-MLBench-7C3AED?style=flat-square)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://harismajeed05.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-majeed-raja/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harismajeed0501@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarisMajeed05)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1E1bMbfKWI_SpXBcua9QnBs4r42S5bjsu/view?usp=sharing)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarisMajeed05&color=7C3AED&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/HarisMajeed05?style=flat-square&color=6D28D9&label=Followers)
@@ -24,12 +25,14 @@
 
 ### About
 
-AI Engineer working at the intersection of computer vision and full-stack engineering, with a habit of building systems from the ground up to understand how they actually work before applying modern AI on top of them. Currently building computer vision pipelines at **MLBench Pvt Ltd**, with project experience spanning object detection, deepfake detection, and retrieval-augmented generation.
+I build AI systems that go from raw data to a working product. At **MLBench** I design computer vision pipelines for real client documents. Outside of that, I have built RAG assistants, a multilingual voice and gesture interface, and a lightweight multimodal deepfake detector for my final year project at ITU Lahore.
 
-Product-engineering mindset: comfortable owning a problem from data pipeline through model to a deployed FastAPI/React interface, not just the modeling layer.
+I like owning the full path: data, model, evaluation, API and UI. I also like building core systems from scratch (a compiler, a search engine, a kernel module) so I know exactly what I am trusting when I use a library.
 
 ```yaml
-Open To: AI Engineering roles, Computer Vision research collaborations, Full-stack AI product work
+Focus:    Computer Vision, Multimodal AI, LLM Applications
+Strength: Taking a model from experiment to a usable product
+Stack:    Python, PyTorch, FastAPI, React
 ```
 
 ---
@@ -38,183 +41,122 @@ Open To: AI Engineering roles, Computer Vision research collaborations, Full-sta
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,java,js" />
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,html,css" />
 
-**Frontend & Backend**
+**AI / ML**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,html,css" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,numpy,pandas" />
 
-**Cloud, DevOps & Tooling**
+**Backend, Frontend & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,mongodb,docker,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,express,mongodb,docker,git,linux,vscode" />
 
 ---
 
 ### AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Area | What I do | Tools |
 | --- | --- | --- |
-| Computer Vision | Advanced | YOLO, RF-DETR, DINOv2, CLIP, ByteTrack, real-time detection and tracking |
-| LLMs & RAG | Advanced | LangChain, FAISS, Groq API, project-scoped retrieval, source-cited answers |
-| Deepfake Detection (FYP) | Project experience | Detect-explain-judge pipeline using VLMs |
-| Full-Stack Engineering | Advanced | FastAPI, Flask, React, Node.js, Express, MongoDB |
-| Systems Programming | Intermediate | Compiler design, inverted-index search engines, C++ |
+| Computer Vision | Object detection, tracking, fine-tuning, image classification | YOLO, RF-DETR, DINOv2, ByteTrack, OpenCV, Cellpose-SAM |
+| LLM Apps & RAG | Document-grounded Q&A, source citations, streaming chat, per-project retrieval isolation | LangChain, FAISS, Groq, sentence-transformers |
+| Multimodal & VLMs | Image-text pipelines, explanation and verification of model outputs | CLIP, BLIP-2, LLaVA-Mini, Qwen-VL, HuggingFace Transformers |
+| Speech & Voice AI | Multilingual speech-to-text, streaming spoken replies, voice login | Whisper (Groq and faster-whisper) |
+| Evaluation & Benchmarking | Precision, recall and F1 comparisons, cross-dataset benchmarks, OCR backend comparisons | scikit-learn, Tesseract, DocTR |
+| Deployment | APIs and web apps around models, CPU-friendly and low-resource inference | FastAPI, Flask, React, MongoDB, JWT |
 
 ---
 
 ### Featured Projects
 
-<details>
-<summary><b>Legal AI Chatbot</b></summary>
-<br/>
+#### Legal AI Chatbot
+A document-grounded legal assistant. Users upload PDFs into projects, and every answer cites its source.
+- Per-project retrieval so documents from one case never leak into another
+- JWT auth, conversation memory, streaming replies, PDF chat export, optional OCR for scanned files
+- Runs without a GPU: LLM on Groq, small embedding model on CPU
 
-Full-stack RAG-based legal assistant with project-scoped retrieval and source-cited answers.
+**Skills shown:** RAG design, LLM integration, backend API design, full-stack delivery
+**Stack:** React, FastAPI, MongoDB, LangChain, FAISS, Groq
+[View repository](https://github.com/HarisMajeed05/legal-ai-chatbot)
 
-| | |
-| --- | --- |
-| **Stack** | React, FastAPI, MongoDB, LangChain, FAISS, Groq API |
-| **Scale** | Multi-project document retrieval |
-| **Performance** | Low-latency retrieval via FAISS vector search |
-| **Security** | Project-scoped access to prevent cross-document leakage |
-| **Impact** | Source-cited answers reduce hallucination risk in legal Q&A |
-| **Repository** | [github.com/HarisMajeed05/legal-ai-chatbot](https://github.com/HarisMajeed05/legal-ai-chatbot) |
+#### GestVox
+Hands-free Windows control with hand gestures and a multilingual voice assistant.
+- Gesture control through MediaPipe hand tracking (cursor, click, scroll, zoom, media)
+- Voice assistant that understands English, Urdu, Punjabi and mixed speech, with persistent memory and per-user voice login
+- Streams replies sentence by sentence, supports interruption, and asks for spoken confirmation before risky actions
 
-</details>
+**Skills shown:** Real-time vision, speech AI, LLM tool use, system design for users
+**Stack:** Python, MediaPipe, Whisper, Groq
+[View repository](https://github.com/HarisMajeed05/GestVox)
 
-<details>
-<summary><b>Footfall Counter</b></summary>
-<br/>
+#### Footfall Counter
+A real-time people counter that runs fully on CPU.
+- YOLO / RT-DETR detection with ByteTrack tracking that holds IDs through occlusion
+- Entry and exit counting across a virtual line at any angle, with an interactive setup tool
+- Tunable confidence, IoU and resolution settings for accuracy versus speed
 
-Real-time people-counting system optimized to run entirely on CPU.
+**Skills shown:** Detection and tracking, performance tuning, edge-friendly deployment
+**Stack:** Python, YOLO, RT-DETR, ByteTrack, OpenCV
+[View repository](https://github.com/HarisMajeed05/Footfall-counter-Yolo)
 
-| | |
-| --- | --- |
-| **Stack** | YOLO / RT-DETR, ByteTrack, OpenCV |
-| **Scale** | Real-time video stream processing |
-| **Performance** | Runs fully on CPU, no GPU dependency |
-| **Security** | N/A (edge deployment friendly) |
-| **Impact** | Configurable virtual-line entry/exit counting for foot traffic analytics |
-| **Repository** | [github.com/HarisMajeed05/Footfall-counter-Yolo](https://github.com/HarisMajeed05/Footfall-counter-Yolo) |
+#### Search Engine
+A document search engine built from scratch using an inverted index.
+- Indexes words with positions across text files
+- Multi-condition queries with ranked results through a command line interface
 
-</details>
+**Skills shown:** Information retrieval fundamentals that sit under every RAG system
+**Stack:** C++
+[View repository](https://github.com/HarisMajeed05/Search-Engine)
 
-<details>
-<summary><b>Multimodal Deepfake Detection (Final Year Project)</b></summary>
-<br/>
+#### C++ Compiler From Scratch
+A toy compiler written in C++ to learn how compilers work.
+- Lexical analysis, recursive descent parser and basic semantic checks
+- Error detection against a custom grammar specification
 
-Three-stage detect, explain, judge pipeline (ExDDV-Judge) replacing large VLMs with lightweight alternatives.
+**Skills shown:** Systems thinking, parsing, strong CS fundamentals
+**Stack:** C++
+[View repository](https://github.com/HarisMajeed05/Cpp-Compiler-From-Scratch)
 
-| | |
-| --- | --- |
-| **Stack** | LLMs, VLMs, PyTorch |
-| **Scale** | Single consumer GPU deployment |
-| **Performance** | Over 80% reduction in model size vs. baseline large VLMs |
-| **Security** | N/A |
-| **Impact** | Makes deepfake detection viable without large-scale compute |
-| **Supervisor** | Dr. Waqas Sultani, ITU Lahore |
-
-</details>
-
-<details>
-<summary><b>C++ Compiler From Scratch</b></summary>
-<br/>
-
-Toy compiler covering lexical analysis, recursive-descent parsing, and semantic checks.
-
-| | |
-| --- | --- |
-| **Stack** | C++ |
-| **Scale** | Single-pass compiler pipeline |
-| **Performance** | N/A |
-| **Security** | N/A |
-| **Impact** | Built to understand compiler internals from first principles |
-| **Repository** | [github.com/HarisMajeed05/Cpp-Compiler-From-Scratch](https://github.com/HarisMajeed05/Cpp-Compiler-From-Scratch) |
-
-</details>
-
-<details>
-<summary><b>Airbnb Clone (Extended)</b></summary>
-<br/>
-
-Full-stack Airbnb-inspired web app with JWT-based authentication and role-based access control.
-
-| | |
-| --- | --- |
-| **Stack** | React, Node.js, Express, MongoDB |
-| **Scale** | Multi-role user system |
-| **Performance** | N/A |
-| **Security** | JWT auth, role-based access control |
-| **Impact** | Full booking-platform clone with production-style auth |
-| **Repository** | [github.com/HarisMajeed05/Airbnb-Inspired-Homepage](https://github.com/HarisMajeed05/Airbnb-Inspired-Homepage) |
-
-</details>
-
-<details>
-<summary><b>Search Engine</b></summary>
-<br/>
-
-Custom search engine using an inverted index for efficient text retrieval.
-
-| | |
-| --- | --- |
-| **Stack** | C++ |
-| **Scale** | Inverted-index based retrieval |
-| **Performance** | Efficient text lookup at scale |
-| **Security** | N/A |
-| **Impact** | Built to understand search engine internals from scratch |
-| **Repository** | [github.com/HarisMajeed05/Search-Engine](https://github.com/HarisMajeed05/Search-Engine) |
-
-</details>
+#### Research Highlight: Multimodal Deepfake Detection (Final Year Project)
+Supervised by Dr. Waqas Sultani, ITU Lahore.
+- Benchmarked SBI, AltFreezing and Face Warping Detection on FaceForensics++, Celeb-DF-v2 and HiDF, showing that binary detectors drop to near-chance accuracy on high quality deepfakes
+- Designed **ExDDV-Judge**, a detect, explain and judge pipeline using BLIP-2 T5-XL and LLaVA-Mini that cuts model size by over 80% and runs on a single consumer GPU
+- Fixed a real-frame misclassification problem with a Dual-DB routing system and a fine-tuned CLIP encoder, lifting real-frame accuracy from 0% to 83%
+- Shipped a Flask web app with per-frame labels, written explanations and trust scores
 
 ---
 
 ### Experience
 
-**AI Engineer** · MLBench Pvt Ltd
-`Present`
+**AI Engineer** | MLBench Pvt Ltd | Jun 2026 to Present
 
-Building computer vision pipelines for production use cases.
+- Replaced a client's three-model document field detection pipeline (YOLO, FFDNet/FFDetr, geometry classifier) with a single fine-tuned RF-DETR-Base model
+- Improved F1 from 0.8568 to 0.8896 (precision 0.9335, recall 0.8496) against the client's existing setup
+- Compared Tesseract and DocTR for OCR and found DocTR fixed checkbox glyph misreads and low-resolution footer text errors
+- Annotated client PDFs for field geometry, type and role to build the training set, and tracked experiments to guide model choice
+- Contributed to a rice grain quality and variety analysis tool using DINOv2-based classifiers trained at multiple image resolutions
 
-- One project: replaced a client's three-model document form field detection pipeline (YOLO, FFDNet/FFDetr, geometry classifier) with a single fine-tuned RF-DETR model
-- Worked across the model-to-API-to-frontend stack, not just isolated modeling
-- Applied VLMs to multimodal problems including deepfake detection
+`Computer Vision` `RF-DETR` `DINOv2` `OCR` `PyTorch`
 
-`Computer Vision` `FastAPI` `PyTorch`
+**Teaching Assistant, Software Engineering & Artificial Intelligence** | ITU Lahore | Aug 2025 to Jun 2026
 
-<br/>
+- Taught and supported system design, version control, testing, search algorithms and machine learning basics
+- Guided student projects on model selection, experiment design and evaluation, and reviewed code in Python, scikit-learn and PyTorch
 
-**Teaching Assistant — Software Engineering & Artificial Intelligence** · Information Technology University (ITU)
+**Earlier internships**
 
-- Supported course delivery and grading for two core CS courses
-- Mentored students on AI/ML fundamentals and software engineering practices
-
-`Teaching` `Software Engineering` `Artificial Intelligence`
-
----
-
-### Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| --- | --- |
-| Final Year Project | Multimodal Deepfake Detection using VLMs, supervised by Dr. Waqas Sultani |
-| Academic Standing | BS Computer Science, ITU Lahore, CGPA 3.28/4.0 |
-| Teaching | TA for Software Engineering and Artificial Intelligence courses |
-
-</div>
+- Machine Learning Intern, Arch Technologies (Jun 2025 to Aug 2025): spam detection, house price prediction, digit and iris classification
+- Front-End Intern, Certura (Jul 2025 to Aug 2025): responsive portfolio site and a weather dashboard using the OpenWeather API
+- Salesforce Admin Intern, Incredibles (Jun 2024 to Sep 2024): data modeling, reports, dashboards and flows
 
 ---
 
-### Coding Profiles
+### Education
 
-<p align="center">
-  <a href="https://github.com/HarisMajeed05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+**BS Computer Science**, Information Technology University, Lahore | Aug 2022 to Jun 2026 | CGPA 3.28/4.0
 
 ---
 
-### Contribution Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisMajeed05&theme=github_dark" />
@@ -225,10 +167,6 @@ Building computer vision pipelines for production use cases.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarisMajeed05&theme=github_dark&utcOffset=5" height="200"/>
 </p>
 
----
-
-### Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/HarisMajeed05/HarisMajeed05/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -238,43 +176,34 @@ Building computer vision pipelines for production use cases.
 ### Current Focus
 
 ```yaml
+Building:
+  - Production-ready computer vision and LLM systems
+  - Clean APIs and interfaces around trained models
 Learning:
   - Advanced retrieval strategies for RAG systems
   - Lightweight VLM architectures for edge deployment
-
-Building:
-  - InspecTech: production visual inspection platform using VLM-based defect detection
-  - Rice Classification: automated tool to classify grain types
-
-Exploring:
-  - Real-time tyre depth analysis tools
-
-Open To:
-  - AI Engineering roles
-  - Computer Vision research collaborations
+Improving:
+  - Evaluation and benchmarking of vision and language models
 ```
 
 ---
 
-### Portfolio
+### Open To
 
-<p align="center">
-  <a href="https://harismajeed05.github.io/portfolio/"><img src="https://img.shields.io/badge/View_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-### Resume
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1E1bMbfKWI_SpXBcua9QnBs4r42S5bjsu/view?usp=sharing"><img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
-</p>
+```yaml
+Roles:
+  - AI Engineer (computer vision, multimodal, LLM applications)
+  - Applied ML and full-stack AI product work
+Collaboration:
+  - Computer vision and multimodal research
+```
 
 ---
 
 ### Connect
 
 <p align="center">
+  <a href="https://harismajeed05.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:harismajeed0501@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/haris-majeed-raja/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/HarisMajeed05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
