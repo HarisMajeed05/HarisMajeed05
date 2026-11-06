@@ -6,6 +6,6 @@
 <text x="310.0" y="58" text-anchor="middle" font-size="28" font-weight="700" fill="#1a7f37">1</text>
 <text x="310.0" y="84" text-anchor="middle" font-size="12" fill="#57606a">total stars</text>
 <line x1="413.3333333333333" y1="20" x2="413.3333333333333" y2="110" stroke="#57606a" stroke-opacity="0.15"/>
-<text x="516.6666666666666" y="58" text-anchor="middle" font-size="28" font-weight="700" fill="#1a7f37">Python</text>
+<text x="516.6666666666666" y="58" text-anchor="middle" font-size="28" font-weight="700" fill="#1a7f37">JavaScript</text>
 <text x="516.6666666666666" y="84" text-anchor="middle" font-size="12" fill="#57606a">top language</text>
 </svg>
