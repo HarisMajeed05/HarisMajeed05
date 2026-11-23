@@ -13,7 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://harismajeed05.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-majeed-raja/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harismajeed0501@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1E1bMbfKWI_SpXBcua9QnBs4r42S5bjsu/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1oKW6zevNbLyHQJA7YJOtIJkGuCprPuPf/view?usp=sharing)
 
 <a>![Profile Views](https://komarev.com/ghpvc/?username=HarisMajeed05&color=7C3AED&style=flat-square&label=Profile+Views)</a>
 <a>![Followers](https://img.shields.io/github/followers/HarisMajeed05?style=flat-square&color=6D28D9&label=Followers)</a>
@@ -40,7 +40,6 @@ I like owning the full path: data, model, evaluation, API and UI. I also like bu
 <br/>
 
 <p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
-
 
 <details>
 <summary><b>View full tech stack</b></summary>
@@ -139,15 +138,15 @@ Full-stack RAG assistant where users upload PDFs into projects and get answers t
 <a>![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)</a>
 <a>![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)</a>
 
-| | |
-| --- | --- |
-| **Stack** | React, FastAPI, MongoDB, LangChain, FAISS, sentence-transformers, Groq API |
-| **Features** | Conversation memory, streaming replies, answer badges (from documents or general knowledge), PDF chat export, project sharing, optional OCR for scanned PDFs |
-| **Scale** | Multiple projects per user, each with its own chats and documents |
-| **Performance** | FAISS vector search, GPU-free setup with the LLM on Groq and a small embedding model on CPU |
-| **Security** | JWT auth, project-scoped retrieval so documents never leak across projects, rate limits on chat and upload |
-| **Impact** | Source-cited answers lower hallucination risk in legal Q&A |
-| **Repository** | [github.com/HarisMajeed05/legal-ai-chatbot](https://github.com/HarisMajeed05/legal-ai-chatbot) |
+|                 |                                                                                                                                                              |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Stack**       | React, FastAPI, MongoDB, LangChain, FAISS, sentence-transformers, Groq API                                                                                   |
+| **Features**    | Conversation memory, streaming replies, answer badges (from documents or general knowledge), PDF chat export, project sharing, optional OCR for scanned PDFs |
+| **Scale**       | Multiple projects per user, each with its own chats and documents                                                                                            |
+| **Performance** | FAISS vector search, GPU-free setup with the LLM on Groq and a small embedding model on CPU                                                                  |
+| **Security**    | JWT auth, project-scoped retrieval so documents never leak across projects, rate limits on chat and upload                                                   |
+| **Impact**      | Source-cited answers lower hallucination risk in legal Q&A                                                                                                   |
+| **Repository**  | [github.com/HarisMajeed05/legal-ai-chatbot](https://github.com/HarisMajeed05/legal-ai-chatbot)                                                               |
 
 </details>
 
@@ -162,15 +161,15 @@ Hands-free Windows control using hand gestures and a multilingual voice assistan
 <a>![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)</a>
 <a>![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)</a>
 
-| | |
-| --- | --- |
-| **Stack** | Python, MediaPipe, Groq (Whisper and LLM), faster-whisper, PowerShell |
-| **Features** | Gesture cursor, click, drag, scroll, zoom and media control, plus voice control of apps, system settings and files with persistent memory |
-| **Languages** | English, Urdu, Punjabi and mixed speech, detected per sentence, with spoken replies in the same language |
+|                 |                                                                                                                                                        |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Stack**       | Python, MediaPipe, Groq (Whisper and LLM), faster-whisper, PowerShell                                                                                  |
+| **Features**    | Gesture cursor, click, drag, scroll, zoom and media control, plus voice control of apps, system settings and files with persistent memory              |
+| **Languages**   | English, Urdu, Punjabi and mixed speech, detected per sentence, with spoken replies in the same language                                               |
 | **Performance** | Replies stream sentence by sentence and can be interrupted, optional local speech-to-text for offline use, remote camera support over LAN or Tailscale |
-| **Security** | Voice biometric login, separate memory per user, spoken confirmation before destructive actions |
-| **Impact** | Accessible computer control without a keyboard or mouse |
-| **Repository** | [github.com/HarisMajeed05/GestVox](https://github.com/HarisMajeed05/GestVox) |
+| **Security**    | Voice biometric login, separate memory per user, spoken confirmation before destructive actions                                                        |
+| **Impact**      | Accessible computer control without a keyboard or mouse                                                                                                |
+| **Repository**  | [github.com/HarisMajeed05/GestVox](https://github.com/HarisMajeed05/GestVox)                                                                           |
 
 </details>
 
@@ -184,15 +183,15 @@ Real-time people counting system that runs entirely on CPU.
 <a>![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)</a>
 <a>![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)</a>
 
-| | |
-| --- | --- |
-| **Stack** | Python, YOLO / RT-DETR, ByteTrack, OpenCV |
-| **Features** | Entry and exit counting across a virtual line at any angle, with an interactive tool to set the line for any camera |
-| **Scale** | Real-time video stream processing |
-| **Performance** | No GPU needed, with adjustable confidence, IoU and resolution to balance accuracy and speed |
-| **Reliability** | ByteTrack keeps person IDs through occlusion for stable counts |
-| **Impact** | Foot traffic analytics on low-cost edge hardware |
-| **Repository** | [github.com/HarisMajeed05/Footfall-counter-Yolo](https://github.com/HarisMajeed05/Footfall-counter-Yolo) |
+|                 |                                                                                                                     |
+| --------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Stack**       | Python, YOLO / RT-DETR, ByteTrack, OpenCV                                                                           |
+| **Features**    | Entry and exit counting across a virtual line at any angle, with an interactive tool to set the line for any camera |
+| **Scale**       | Real-time video stream processing                                                                                   |
+| **Performance** | No GPU needed, with adjustable confidence, IoU and resolution to balance accuracy and speed                         |
+| **Reliability** | ByteTrack keeps person IDs through occlusion for stable counts                                                      |
+| **Impact**      | Foot traffic analytics on low-cost edge hardware                                                                    |
+| **Repository**  | [github.com/HarisMajeed05/Footfall-counter-Yolo](https://github.com/HarisMajeed05/Footfall-counter-Yolo)            |
 
 </details>
 
@@ -207,15 +206,15 @@ Three-stage detect, explain and judge pipeline (ExDDV-Judge) that replaces large
 <a>![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square)</a>
 <a>![BLIP-2](https://img.shields.io/badge/BLIP--2-0467DF?style=flat-square)</a>
 
-| | |
-| --- | --- |
-| **Stack** | PyTorch, BLIP-2 T5-XL, LLaVA-Mini, CLIP, DeepfakeJudge, Flask |
-| **Research** | Benchmarked SBI, AltFreezing and Face Warping Detection on FaceForensics++, Celeb-DF-v2 and HiDF, showing binary detectors fall to near-chance accuracy on high quality deepfakes |
-| **Scale** | Runs on a single consumer GPU |
-| **Performance** | Over 80% smaller than baseline 11B and 7B VLMs |
-| **Reliability** | Dual-DB routing with a fine-tuned CLIP encoder lifted real-frame accuracy from 0% to 83% |
-| **Impact** | Explanations with faithfulness scores, delivered through a web app with per-frame labels and trust scores |
-| **Supervisor** | Dr. Waqas Sultani, ITU Lahore |
+|                 |                                                                                                                                                                                   |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stack**       | PyTorch, BLIP-2 T5-XL, LLaVA-Mini, CLIP, DeepfakeJudge, Flask                                                                                                                     |
+| **Research**    | Benchmarked SBI, AltFreezing and Face Warping Detection on FaceForensics++, Celeb-DF-v2 and HiDF, showing binary detectors fall to near-chance accuracy on high quality deepfakes |
+| **Scale**       | Runs on a single consumer GPU                                                                                                                                                     |
+| **Performance** | Over 80% smaller than baseline 11B and 7B VLMs                                                                                                                                    |
+| **Reliability** | Dual-DB routing with a fine-tuned CLIP encoder lifted real-frame accuracy from 0% to 83%                                                                                          |
+| **Impact**      | Explanations with faithfulness scores, delivered through a web app with per-frame labels and trust scores                                                                         |
+| **Supervisor**  | Dr. Waqas Sultani, ITU Lahore                                                                                                                                                     |
 
 </details>
 
@@ -227,13 +226,13 @@ Toy compiler written in C++ to learn how compilers work from first principles.
 
 <a>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)</a>
 
-| | |
-| --- | --- |
-| **Stack** | C++ |
-| **Features** | Lexical analysis, recursive descent parser, basic semantic checks, grammar defined in a custom specification |
-| **Reliability** | Error detection during parsing |
-| **Impact** | Strong systems fundamentals behind how languages and tools are built |
-| **Repository** | [github.com/HarisMajeed05/Cpp-Compiler-From-Scratch](https://github.com/HarisMajeed05/Cpp-Compiler-From-Scratch) |
+|                 |                                                                                                                  |
+| --------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Stack**       | C++                                                                                                              |
+| **Features**    | Lexical analysis, recursive descent parser, basic semantic checks, grammar defined in a custom specification     |
+| **Reliability** | Error detection during parsing                                                                                   |
+| **Impact**      | Strong systems fundamentals behind how languages and tools are built                                             |
+| **Repository**  | [github.com/HarisMajeed05/Cpp-Compiler-From-Scratch](https://github.com/HarisMajeed05/Cpp-Compiler-From-Scratch) |
 
 </details>
 
@@ -245,13 +244,13 @@ Document search engine built from scratch in C++ using an inverted index.
 
 <a>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)</a>
 
-| | |
-| --- | --- |
-| **Stack** | C++ |
-| **Features** | Word and position indexing across text files, multi-condition queries, ranked results, command line interface |
-| **Performance** | Inverted index for fast keyword lookup |
-| **Impact** | Shows the retrieval basics that search and RAG systems build on |
-| **Repository** | [github.com/HarisMajeed05/Search-Engine](https://github.com/HarisMajeed05/Search-Engine) |
+|                 |                                                                                                               |
+| --------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Stack**       | C++                                                                                                           |
+| **Features**    | Word and position indexing across text files, multi-condition queries, ranked results, command line interface |
+| **Performance** | Inverted index for fast keyword lookup                                                                        |
+| **Impact**      | Shows the retrieval basics that search and RAG systems build on                                               |
+| **Repository**  | [github.com/HarisMajeed05/Search-Engine](https://github.com/HarisMajeed05/Search-Engine)                      |
 
 </details>
 
@@ -283,11 +282,11 @@ Document search engine built from scratch in C++ using an inverted index.
 <summary><b>Earlier internships</b></summary>
 <br/>
 
-| Role | Company | Period | Work |
-| --- | --- | --- | --- |
-| Machine Learning Intern | Arch Technologies | Jun 2025 to Aug 2025 | Spam detection, house price prediction, digit and iris classification |
-| Front-End Intern | Certura | Jul 2025 to Aug 2025 | Responsive portfolio site and a weather dashboard using the OpenWeather API |
-| Salesforce Admin Intern | Incredibles | Jun 2024 to Sep 2024 | Data modeling, reports, dashboards and flows |
+| Role                    | Company           | Period               | Work                                                                        |
+| ----------------------- | ----------------- | -------------------- | --------------------------------------------------------------------------- |
+| Machine Learning Intern | Arch Technologies | Jun 2025 to Aug 2025 | Spam detection, house price prediction, digit and iris classification       |
+| Front-End Intern        | Certura           | Jul 2025 to Aug 2025 | Responsive portfolio site and a weather dashboard using the OpenWeather API |
+| Salesforce Admin Intern | Incredibles       | Jun 2024 to Sep 2024 | Data modeling, reports, dashboards and flows                                |
 
 </details>
 
@@ -304,7 +303,6 @@ Document search engine built from scratch in C++ using an inverted index.
 <br/>
 
 <p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%93%8A%20GitHub%20Activity&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
-
 
 <details>
 <summary><b>View GitHub stats</b></summary>
@@ -323,7 +321,6 @@ Document search engine built from scratch in C++ using an inverted index.
 <br/>
 
 <p align="center"><a><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=55&section=header&text=%F0%9F%94%AD%20Current%20Focus&fontSize=26&fontColor=ffffff" width="100%" /></a></p>
-
 
 <details>
 <summary><b>View current focus areas</b></summary>
